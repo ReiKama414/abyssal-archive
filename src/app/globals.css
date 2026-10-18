@@ -1,26 +1,242 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
+/* ─── Font theme tokens (Tailwind v4) — no Noto ─── */
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-chiron-hei), "Chiron Hei HK", "PingFang TC", "Microsoft JhengHei",
+    sans-serif;
+  --font-serif: var(--font-wenkai), "LXGW WenKai TC", "DFKai-SB", "BiauKai", serif;
+  --font-display: var(--font-cinzel), "Cinzel", "Palatino Linotype", serif;
+  --font-hud: var(--font-oxanium), "Oxanium", "Segoe UI", sans-serif;
+  --font-mono: var(--font-ibm-mono), "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+:root {
+  --background: #020612;
+  --foreground: #f8fafc;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: #020612;
+  color: #f8fafc;
+  min-height: 100vh;
+  overflow-x: clip;
+  font-family: var(--font-sans);
+  letter-spacing: 0.01em;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-touch-callout: none;
+}
+
+/* Comprehensive text selection lock across all elements */
+*,
+*::before,
+*::after {
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-touch-callout: none;
+}
+
+img,
+svg {
+  -webkit-user-drag: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+
+input,
+textarea {
+  user-select: text;
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+}
+
+/*
+ * Typography utility layer — texture roles
+ * font-sans    Chiron Hei HK    UI / pack ZH titles / card names / buttons
+ * font-serif   LXGW WenKai TC   brand ritual titles / flavor quotes
+ * font-display Cinzel           Latin brand / pack EN / engraved
+ * font-hud     Oxanium          gacha HUD / neon labels
+ * font-mono    IBM Plex Mono    stats / IDs / pity / countdown
+ */
+.font-display {
+  font-family: var(--font-display);
+  letter-spacing: 0.12em;
+}
+
+.font-hud {
+  font-family: var(--font-hud);
+  letter-spacing: 0.08em;
+}
+
+.font-serif {
+  font-family: var(--font-serif);
+}
+
+.font-mono {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+.font-sans {
+  font-family: var(--font-sans);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #050a18;
+}
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #0284c7;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+@keyframes jellyfishPulse {
+  0%,
+  100% {
+    transform: translateY(0px) scale(1);
+  }
+  50% {
+    transform: translateY(-8px) scale(1.03);
+  }
+}
+
+.jellyfish-pulse {
+  animation: jellyfishPulse 4s ease-in-out infinite;
+  transform-origin: center top;
+}
+
+@keyframes tentacleWave0 {
+  0%,
+  100% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(3deg);
+  }
+}
+@keyframes tentacleWave1 {
+  0%,
+  100% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(-4deg);
+  }
+}
+@keyframes tentacleWave2 {
+  0%,
+  100% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(2deg);
+  }
+}
+
+.tentacle-wave.tentacle-0 {
+  animation: tentacleWave0 3.2s ease-in-out infinite;
+  transform-origin: 200px 200px;
+}
+.tentacle-wave.tentacle-1 {
+  animation: tentacleWave1 2.8s ease-in-out infinite;
+  transform-origin: 200px 200px;
+}
+.tentacle-wave.tentacle-2 {
+  animation: tentacleWave2 3.6s ease-in-out infinite;
+  transform-origin: 200px 200px;
+}
+
+@keyframes magicSpin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.magic-circle-spin {
+  animation: magicSpin 20s linear infinite;
+  transform-origin: 200px 240px;
+}
+
+@keyframes rainFall {
+  0% {
+    transform: translate(0, -50px);
+    opacity: 0;
+  }
+  30% {
+    opacity: 0.8;
+  }
+  100% {
+    transform: translate(-30px, 150px);
+    opacity: 0;
+  }
+}
+
+.rain-drop {
+  animation: rainFall 0.9s linear infinite;
+}
+
+@keyframes spiritFloat {
+  0%,
+  100% {
+    transform: translateY(0) scale(1);
+  }
+  50% {
+    transform: translateY(-6px) scale(1.02);
+  }
+}
+
+.spirit-beast-float {
+  animation: spiritFloat 4s ease-in-out infinite;
+  transform-origin: 200px 250px;
+}
+
+@keyframes particleFloat {
+  0%,
+  100% {
+    transform: translateY(0);
+    opacity: 0.3;
+  }
+  50% {
+    transform: translateY(-12px);
+    opacity: 0.8;
+  }
+}
+
+.particle-float {
+  animation: particleFloat 3.5s ease-in-out infinite;
+}
+
+@keyframes bounceSubtle {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-bounce-subtle {
+  animation: bounceSubtle 3.5s ease-in-out infinite;
 }

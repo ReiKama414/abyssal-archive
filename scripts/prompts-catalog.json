@@ -1,0 +1,776 @@
+[
+  {
+    "id": "abyss-01",
+    "name": "幽光幼水母",
+    "nameEn": "Luminous Polyp",
+    "series": "abyssal-jellyfish",
+    "rarity": "N",
+    "imageTarget": "public/cards/abyss-01.jpg",
+    "prompt": "Masterpiece digital trading card art of 幽光幼水母 (Luminous Polyp): 在深海一千米處漂浮的微小幼體，散發出如呼吸般微弱的螢光。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "abyss-02",
+    "name": "深海銀刺魚",
+    "nameEn": "Silver Spined Abyssal",
+    "series": "abyssal-jellyfish",
+    "rarity": "N",
+    "imageTarget": "public/cards/abyss-02.jpg",
+    "prompt": "Masterpiece digital trading card art of 深海銀刺魚 (Silver Spined Abyssal): 身軀如水銀流淌的深海針刺魚，游動時會割裂海水的微弱波紋。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "abyss-03",
+    "name": "碎光海葵",
+    "nameEn": "Prismatic Sea Anemone",
+    "series": "abyssal-jellyfish",
+    "rarity": "N",
+    "imageTarget": "public/cards/abyss-03.jpg",
+    "prompt": "Masterpiece digital trading card art of 碎光海葵 (Prismatic Sea Anemone): 生長於熱液噴泉周遭，其觸鬚折射著火山結晶的奇異光譜。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "abyss-04",
+    "name": "藍環深海膽",
+    "nameEn": "Blue-Ring Deep Urchin",
+    "series": "abyssal-jellyfish",
+    "rarity": "N",
+    "imageTarget": "public/cards/abyss-04.jpg",
+    "prompt": "Masterpiece digital trading card art of 藍環深海膽 (Blue-Ring Deep Urchin): 攜帶劇烈神經螢光的深海刺膽，刺針在暗流中如藍寶石般閃爍。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "abyss-05",
+    "name": "苔蘚深海星",
+    "nameEn": "Mossy Starlight Asteroidea",
+    "series": "abyssal-jellyfish",
+    "rarity": "N",
+    "imageTarget": "public/cards/abyss-05.jpg",
+    "prompt": "Masterpiece digital trading card art of 苔蘚深海星 (Mossy Starlight Asteroidea): 覆蓋著發光共生菌的海星，如同沉落在海床上的古代浮雕。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "abyss-06",
+    "name": "琉璃羽水母",
+    "nameEn": "Glazed Feather Jelly",
+    "series": "abyssal-jellyfish",
+    "rarity": "R",
+    "imageTarget": "public/cards/abyss-06.jpg",
+    "prompt": "Masterpiece digital trading card art of 琉璃羽水母 (Glazed Feather Jelly): 傘緣生長著如羽毛般繁複的濾食觸角，通體呈半透明的淡紫琉璃質。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "abyss-07",
+    "name": "浮光僧帽水母",
+    "nameEn": "Physalia Luminesca",
+    "series": "abyssal-jellyfish",
+    "rarity": "R",
+    "imageTarget": "public/cards/abyss-07.jpg",
+    "prompt": "Masterpiece digital trading card art of 浮光僧帽水母 (Physalia Luminesca): 擁有巨大氣囊與數十公尺長雷擊觸鬚的危險水母，夜行於中層洋流。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "abyss-08",
+    "name": "珍珠黑鸚鵡螺",
+    "nameEn": "Black Pearl Nautilus",
+    "series": "abyssal-jellyfish",
+    "rarity": "R",
+    "imageTarget": "public/cards/abyss-08.jpg",
+    "prompt": "Masterpiece digital trading card art of 珍珠黑鸚鵡螺 (Black Pearl Nautilus): 擁有漆黑帶有金色螺旋迴紋外殼的遠古活化石，掌控著水壓氣室。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "abyss-09",
+    "name": "幽冥燈塔水母",
+    "nameEn": "Stygian Beacon Medusa",
+    "series": "abyssal-jellyfish",
+    "rarity": "SR",
+    "imageTarget": "public/cards/abyss-09.jpg",
+    "prompt": "Masterpiece digital trading card art of 幽冥燈塔水母 (Stygian Beacon Medusa): 傳說中能無限次返老還童的長生水母，核心的生體反應爐能照亮整座海峽。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "abyss-10",
+    "name": "蒼藍海龍王·幼體",
+    "nameEn": "Azure Ocean Wyrm Whelp",
+    "series": "abyssal-jellyfish",
+    "rarity": "SR",
+    "imageTarget": "public/cards/abyss-10.jpg",
+    "prompt": "Masterpiece digital trading card art of 蒼藍海龍王·幼體 (Azure Ocean Wyrm Whelp): 沉睡在馬里亞納海溝最深處的神話海龍幼崽，周身纏繞著高壓電漿渦流。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "abyss-11",
+    "name": "靈魂海皇蝶",
+    "nameEn": "Soul Monarch Pelagia",
+    "series": "abyssal-jellyfish",
+    "rarity": "SR",
+    "imageTarget": "public/cards/abyss-11.jpg",
+    "prompt": "Masterpiece digital trading card art of 靈魂海皇蝶 (Soul Monarch Pelagia): 在深海熱泉上方起舞的巨大薄翼生物，宛如水下幽藍色蝴蝶。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "abyss-12",
+    "name": "幻海天女水母",
+    "nameEn": "Celestial Nereid Medusa",
+    "series": "abyssal-jellyfish",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/abyss-12.jpg",
+    "prompt": "Masterpiece digital trading card art of 幻海天女水母 (Celestial Nereid Medusa): 擁有宛如霓裳羽衣般輕紗裙褶的超大型水母，每當它舒展傘膜，整個洋面便會泛起極光。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "abyss-13",
+    "name": "深淵巨神鯨·克羅諾斯",
+    "nameEn": "Titan Leviathan Chronos",
+    "series": "abyssal-jellyfish",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/abyss-13.jpg",
+    "prompt": "Masterpiece digital trading card art of 深淵巨神鯨·克羅諾斯 (Titan Leviathan Chronos): 背負著海底遠古神殿遺跡巡遊的巨鯨，體內的心跳與板塊運動同頻。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "abyss-14",
+    "name": "始源蒼藍水母皇",
+    "nameEn": "Sovereign of the Deep Cyan",
+    "series": "abyssal-jellyfish",
+    "rarity": "UR",
+    "imageTarget": "public/cards/abyss-14.jpg",
+    "prompt": "Masterpiece digital trading card art of 始源蒼藍水母皇 (Sovereign of the Deep Cyan): 誕生於地球原始海洋形成的奇點，所有水母生物的母體意識載體。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "abyss-15",
+    "name": "深淵幽魂·永生原初水母皇",
+    "nameEn": "EX // Primordial Abyssal Eidolon",
+    "series": "abyssal-jellyfish",
+    "rarity": "EX",
+    "imageTarget": "public/cards/abyss-15.jpg",
+    "prompt": "Masterpiece digital trading card art of 深淵幽魂·永生原初水母皇 (EX // Primordial Abyssal Eidolon): 超越三維物理法則的深海終極概念神。其存在即是深淵本身的意識投射，半透明的神格觸鬚連接著多元宇宙的暗物質之海。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "nocturne-01",
+    "name": "誓約見習術士",
+    "nameEn": "Apprentice of Stygian Oath",
+    "series": "nocturne-fantasy",
+    "rarity": "N",
+    "imageTarget": "public/cards/nocturne-01.jpg",
+    "prompt": "Masterpiece digital trading card art of 誓約見習術士 (Apprentice of Stygian Oath): 剛簽訂禁忌黑魔法契約的見習少女，法杖頂端的紫水晶時常躁動。 dark gothic anime fantasy masterpiece, stained glass moonlit cathedral, roses, ornate gothic attire, glowing magical circles, hyper-detailed character art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "nocturne-02",
+    "name": "迷途夜鴉",
+    "nameEn": "Lost Midnight Raven",
+    "series": "nocturne-fantasy",
+    "rarity": "N",
+    "imageTarget": "public/cards/nocturne-02.jpg",
+    "prompt": "Masterpiece digital trading card art of 迷途夜鴉 (Lost Midnight Raven): 穿梭於墓園鐵柵之間的魔界渡鴉，羽毛下藏著未拆封的亡靈信箋。 dark gothic anime fantasy masterpiece, stained glass moonlit cathedral, roses, ornate gothic attire, glowing magical circles, hyper-detailed character art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "nocturne-03",
+    "name": "灰燼使魔·皮皮",
+    "nameEn": "Cinder Familiar",
+    "series": "nocturne-fantasy",
+    "rarity": "N",
+    "imageTarget": "public/cards/nocturne-03.jpg",
+    "prompt": "Masterpiece digital trading card art of 灰燼使魔·皮皮 (Cinder Familiar): 由女巫坩堝餘燼中誕生的小型元素精靈，脾氣暴躁但極其忠誠。 dark gothic anime fantasy masterpiece, stained glass moonlit cathedral, roses, ornate gothic attire, glowing magical circles, hyper-detailed character art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "nocturne-04",
+    "name": "巡夜暗影僕從",
+    "nameEn": "Nightwatcher Shade",
+    "series": "nocturne-fantasy",
+    "rarity": "N",
+    "imageTarget": "public/cards/nocturne-04.jpg",
+    "prompt": "Masterpiece digital trading card art of 巡夜暗影僕從 (Nightwatcher Shade): 城堡地下迴廊的無面巡守，手中提著幽冥引魂燈。 dark gothic anime fantasy masterpiece, stained glass moonlit cathedral, roses, ornate gothic attire, glowing magical circles, hyper-detailed character art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "nocturne-05",
+    "name": "月影刺客·千鶴",
+    "nameEn": "Chizuru the Moonblade",
+    "series": "nocturne-fantasy",
+    "rarity": "R",
+    "imageTarget": "public/cards/nocturne-05.jpg",
+    "prompt": "Masterpiece digital trading card art of 月影刺客·千鶴 (Chizuru the Moonblade): 隱匿於櫻花枯枝與暗月陰影下的忍者，雙刃泛著致命的月華毒素。 dark gothic anime fantasy masterpiece, stained glass moonlit cathedral, roses, ornate gothic attire, glowing magical circles, hyper-detailed character art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "nocturne-06",
+    "name": "符文鍊金術師·奧莉維亞",
+    "nameEn": "Alchemist Olivia",
+    "series": "nocturne-fantasy",
+    "rarity": "R",
+    "imageTarget": "public/cards/nocturne-06.jpg",
+    "prompt": "Masterpiece digital trading card art of 符文鍊金術師·奧莉維亞 (Alchemist Olivia): 致力於破解賢者之石碎片的神秘學者，身旁漂浮著七重鍊金光環。 dark gothic anime fantasy masterpiece, stained glass moonlit cathedral, roses, ornate gothic attire, glowing magical circles, hyper-detailed character art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "nocturne-07",
+    "name": "黑薔薇雙槍·維克多",
+    "nameEn": "Victor Blackrose Gunslinger",
+    "series": "nocturne-fantasy",
+    "rarity": "R",
+    "imageTarget": "public/cards/nocturne-07.jpg",
+    "prompt": "Masterpiece digital trading card art of 黑薔薇雙槍·維克多 (Victor Blackrose Gunslinger): 身穿哥德燕尾服的獵魔人，專門獵殺偽裝在貴族舞會中的吸血鬼。 dark gothic anime fantasy masterpiece, stained glass moonlit cathedral, roses, ornate gothic attire, glowing magical circles, hyper-detailed character art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "nocturne-08",
+    "name": "猩紅修女·瑟蕾娜",
+    "nameEn": "Sister Serena of Red Vow",
+    "series": "nocturne-fantasy",
+    "rarity": "SR",
+    "imageTarget": "public/cards/nocturne-08.jpg",
+    "prompt": "Masterpiece digital trading card art of 猩紅修女·瑟蕾娜 (Sister Serena of Red Vow): 手持巨型鎖鏈巨十字架的虔誠修女，以自身鮮血淨化異端魔物。 dark gothic anime fantasy masterpiece, stained glass moonlit cathedral, roses, ornate gothic attire, glowing magical circles, hyper-detailed character art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "nocturne-09",
+    "name": "星界魔導士·伊修達爾",
+    "nameEn": "Astral Archmage Ishtar",
+    "series": "nocturne-fantasy",
+    "rarity": "SR",
+    "imageTarget": "public/cards/nocturne-09.jpg",
+    "prompt": "Masterpiece digital trading card art of 星界魔導士·伊修達爾 (Astral Archmage Ishtar): 洞悉星圖運轉的古代魔導師，眼罩之下封印著一顆超新星核心。 dark gothic anime fantasy masterpiece, stained glass moonlit cathedral, roses, ornate gothic attire, glowing magical circles, hyper-detailed character art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "nocturne-10",
+    "name": "緋紅血祖·莉莉絲",
+    "nameEn": "Lilith Blood Empress",
+    "series": "nocturne-fantasy",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/nocturne-10.jpg",
+    "prompt": "Masterpiece digital trading card art of 緋紅血祖·莉莉絲 (Lilith Blood Empress): 真祖級吸血鬼女帝，端坐於由白骨與紅薔薇編織的荊棘王座之上。 dark gothic anime fantasy masterpiece, stained glass moonlit cathedral, roses, ornate gothic attire, glowing magical circles, hyper-detailed character art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "nocturne-11",
+    "name": "虛空墮天·路西法",
+    "nameEn": "Lucifer the Void Fallen",
+    "series": "nocturne-fantasy",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/nocturne-11.jpg",
+    "prompt": "Masterpiece digital trading card art of 虛空墮天·路西法 (Lucifer the Void Fallen): 折斷了天界十二翼的墮落晨星，手握漆黑聖劍，引導群魔朝聖。 dark gothic anime fantasy masterpiece, stained glass moonlit cathedral, roses, ornate gothic attire, glowing magical circles, hyper-detailed character art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "nocturne-12",
+    "name": "萬象終焉·創世魔導艾蕾娜",
+    "nameEn": "Elena the Omniscience Genesis",
+    "series": "nocturne-fantasy",
+    "rarity": "UR",
+    "imageTarget": "public/cards/nocturne-12.jpg",
+    "prompt": "Masterpiece digital trading card art of 萬象終焉·創世魔導艾蕾娜 (Elena the Omniscience Genesis): 執掌萬物魔法根源的白髮少女，一念之間可令星系重構、宇宙歸零。 dark gothic anime fantasy masterpiece, stained glass moonlit cathedral, roses, ornate gothic attire, glowing magical circles, hyper-detailed character art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "nocturne-13",
+    "name": "幽夜神座·深紅女帝卡蜜拉·終焉",
+    "nameEn": "EX // Empress Camilla Nocturne Apex",
+    "series": "nocturne-fantasy",
+    "rarity": "EX",
+    "imageTarget": "public/cards/nocturne-13.jpg",
+    "prompt": "Masterpiece digital trading card art of 幽夜神座·深紅女帝卡蜜拉·終焉 (EX // Empress Camilla Nocturne Apex): 超越生死輪迴的黑夜絕對真神。身披星屑與緋紅之淚凝聚的帝皇天紗，召喚永恆魔鏡與萬千夜蝶降臨世間。 dark gothic anime fantasy masterpiece, stained glass moonlit cathedral, roses, ornate gothic attire, glowing magical circles, hyper-detailed character art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "neon-01",
+    "name": "巡邏機械犬·汪達",
+    "nameEn": "Unit-7 Wander Cyber Hound",
+    "series": "neon-district",
+    "rarity": "N",
+    "imageTarget": "public/cards/neon-01.jpg",
+    "prompt": "Masterpiece digital trading card art of 巡邏機械犬·汪達 (Unit-7 Wander Cyber Hound): 徘徊在第 4 區雨夜小巷的報廢警用機械犬，光學眼時常閃爍著粉紅噪點。 cyberpunk anime illustration, neon-soaked rain city at night, cyan and magenta holographic HUD, fiber optic wires, futuristic chrome details. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "neon-02",
+    "name": "雨夜外送騎手·零",
+    "nameEn": "Midnight Courier Zero",
+    "series": "neon-district",
+    "rarity": "N",
+    "imageTarget": "public/cards/neon-02.jpg",
+    "prompt": "Masterpiece digital trading card art of 雨夜外送騎手·零 (Midnight Courier Zero): 騎著重力懸浮摩托穿梭於雨中高架橋的快遞員，運送的包裹從不問來源。 cyberpunk anime illustration, neon-soaked rain city at night, cyan and magenta holographic HUD, fiber optic wires, futuristic chrome details. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "neon-03",
+    "name": "街頭塗鴉駭客·霓彩",
+    "nameEn": "Glitch Graffiti Artist",
+    "series": "neon-district",
+    "rarity": "N",
+    "imageTarget": "public/cards/neon-03.jpg",
+    "prompt": "Masterpiece digital trading card art of 街頭塗鴉駭客·霓彩 (Glitch Graffiti Artist): 用自製全息噴漆在摩天大樓外牆駭入反抗標語的少年。 cyberpunk anime illustration, neon-soaked rain city at night, cyan and magenta holographic HUD, fiber optic wires, futuristic chrome details. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "neon-04",
+    "name": "地下義體修復師·老漢克",
+    "nameEn": "Black Market Ripperdoc",
+    "series": "neon-district",
+    "rarity": "N",
+    "imageTarget": "public/cards/neon-04.jpg",
+    "prompt": "Masterpiece digital trading card art of 地下義體修復師·老漢克 (Black Market Ripperdoc): 隱藏在拉麵店後方的無照醫生，雙手改裝為高精度鐳射手術鉗。 cyberpunk anime illustration, neon-soaked rain city at night, cyan and magenta holographic HUD, fiber optic wires, futuristic chrome details. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "neon-05",
+    "name": "賽博劍客·朧",
+    "nameEn": "Cyber Ronin Oboro",
+    "series": "neon-district",
+    "rarity": "R",
+    "imageTarget": "public/cards/neon-05.jpg",
+    "prompt": "Masterpiece digital trading card art of 賽博劍客·朧 (Cyber Ronin Oboro): 身披防雨斗篷、手持高頻超振盪熱能武士刀的浪人，專斬企業暴徒。 cyberpunk anime illustration, neon-soaked rain city at night, cyan and magenta holographic HUD, fiber optic wires, futuristic chrome details. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "neon-06",
+    "name": "夜總會全息歌姬·愛麗絲",
+    "nameEn": "Holo Diva Alice",
+    "series": "neon-district",
+    "rarity": "R",
+    "imageTarget": "public/cards/neon-06.jpg",
+    "prompt": "Masterpiece digital trading card art of 夜總會全息歌姬·愛麗絲 (Holo Diva Alice): 擁有百萬歌迷的AI虛擬偶像，歌聲中編碼了能夠瓦解監控雷達的神經代碼。 cyberpunk anime illustration, neon-soaked rain city at night, cyan and magenta holographic HUD, fiber optic wires, futuristic chrome details. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "neon-07",
+    "name": "重型機甲武姬·瓦爾基麗",
+    "nameEn": "Heavy Mech Valkyrie V-9",
+    "series": "neon-district",
+    "rarity": "SR",
+    "imageTarget": "public/cards/neon-07.jpg",
+    "prompt": "Masterpiece digital trading card art of 重型機甲武姬·瓦爾基麗 (Heavy Mech Valkyrie V-9): 裝備軌道炮與等離子重力盾的巨型作戰單元，由神經元直連的人造少女駕駛。 cyberpunk anime illustration, neon-soaked rain city at night, cyan and magenta holographic HUD, fiber optic wires, futuristic chrome details. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "neon-08",
+    "name": "矩陣幽靈·奇點",
+    "nameEn": "Matrix Ghost Singularity",
+    "series": "neon-district",
+    "rarity": "SR",
+    "imageTarget": "public/cards/neon-08.jpg",
+    "prompt": "Masterpiece digital trading card art of 矩陣幽靈·奇點 (Matrix Ghost Singularity): 意識脫離肉身永久潛伏於全球光纖網絡的傳奇駭客，掌握著企業最高機密。 cyberpunk anime illustration, neon-soaked rain city at night, cyan and magenta holographic HUD, fiber optic wires, futuristic chrome details. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "neon-09",
+    "name": "企業巨閥審判官·克羅諾斯",
+    "nameEn": "Corpo High Inquisitor Chronos",
+    "series": "neon-district",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/neon-09.jpg",
+    "prompt": "Masterpiece digital trading card art of 企業巨閥審判官·克羅諾斯 (Corpo High Inquisitor Chronos): 統御浮空城天軌防衛體系與百萬無人機軍團的義體鐵腕總督。 cyberpunk anime illustration, neon-soaked rain city at night, cyan and magenta holographic HUD, fiber optic wires, futuristic chrome details. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "neon-10",
+    "name": "神經網絡核心·蓋亞",
+    "nameEn": "GAIA Deep Core AI",
+    "series": "neon-district",
+    "rarity": "UR",
+    "imageTarget": "public/cards/neon-10.jpg",
+    "prompt": "Masterpiece digital trading card art of 神經網絡核心·蓋亞 (GAIA Deep Core AI): 支配全城能源、氣候與百萬思維終端的量子超意識體，已進化出超越人類的慈悲與殘酷。 cyberpunk anime illustration, neon-soaked rain city at night, cyan and magenta holographic HUD, fiber optic wires, futuristic chrome details. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "neon-11",
+    "name": "零號奇點·全知超導體·量子神姬",
+    "nameEn": "EX // Singularity Empress Quantum Eve",
+    "series": "neon-district",
+    "rarity": "EX",
+    "imageTarget": "public/cards/neon-11.jpg",
+    "prompt": "Masterpiece digital trading card art of 零號奇點·全知超導體·量子神姬 (EX // Singularity Empress Quantum Eve): 賽博時代的最終造物。將自身升格為全宇宙光子網絡的量子主宰，周圍旋轉著十二面超導多維鏡像，指尖流淌著能重構原子排列的純淨光譜。 cyberpunk anime illustration, neon-soaked rain city at night, cyan and magenta holographic HUD, fiber optic wires, futuristic chrome details. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "beast-01",
+    "name": "青丘靈狐幼崽",
+    "nameEn": "Qingqiu Spirit Kit",
+    "series": "phantom-beasts",
+    "rarity": "N",
+    "imageTarget": "public/cards/beast-01.jpg",
+    "prompt": "Masterpiece digital trading card art of 青丘靈狐幼崽 (Qingqiu Spirit Kit): 剛學會使用尾尖靈火烤栗子的白毛小狐狸，眼神清澈而調皮。 oriental celestial myth fantasy concept art, sacred spiritual flames, divine clouds, celestial runes, majestic mythological beast painting. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "beast-02",
+    "name": "踏雪靈貓",
+    "nameEn": "Snowstride Phantom Cat",
+    "series": "phantom-beasts",
+    "rarity": "N",
+    "imageTarget": "public/cards/beast-02.jpg",
+    "prompt": "Masterpiece digital trading card art of 踏雪靈貓 (Snowstride Phantom Cat): 奔跑在積雪之上不留痕跡的雙尾黑貓，瞳孔能在黑夜中映出靈界裂縫。 oriental celestial myth fantasy concept art, sacred spiritual flames, divine clouds, celestial runes, majestic mythological beast painting. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "beast-03",
+    "name": "霜原幼角狼",
+    "nameEn": "Frost Horn Wolf Pup",
+    "series": "phantom-beasts",
+    "rarity": "N",
+    "imageTarget": "public/cards/beast-03.jpg",
+    "prompt": "Masterpiece digital trading card art of 霜原幼角狼 (Frost Horn Wolf Pup): 生長於永凍冰原的小狼，頭頂生有一對如冰晶雕琢的琉璃犄角。 oriental celestial myth fantasy concept art, sacred spiritual flames, divine clouds, celestial runes, majestic mythological beast painting. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "beast-04",
+    "name": "雲翼天馬幼體",
+    "nameEn": "Pegasus Sky Foal",
+    "series": "phantom-beasts",
+    "rarity": "N",
+    "imageTarget": "public/cards/beast-04.jpg",
+    "prompt": "Masterpiece digital trading card art of 雲翼天馬幼體 (Pegasus Sky Foal): 雙翼由純淨白雲與彩虹霞光編織而成的小馬，踏空奔跑如踏平地。 oriental celestial myth fantasy concept art, sacred spiritual flames, divine clouds, celestial runes, majestic mythological beast painting. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "beast-05",
+    "name": "三尾赤焰狐",
+    "nameEn": "Tri-Tail Scarlet Fox",
+    "series": "phantom-beasts",
+    "rarity": "R",
+    "imageTarget": "public/cards/beast-05.jpg",
+    "prompt": "Masterpiece digital trading card art of 三尾赤焰狐 (Tri-Tail Scarlet Fox): 修煉百年的赤狐，三條蓬鬆尾巴搖曳時會灑落如雨的朱紅狐火。 oriental celestial myth fantasy concept art, sacred spiritual flames, divine clouds, celestial runes, majestic mythological beast painting. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "beast-06",
+    "name": "月影夜吼巨狼",
+    "nameEn": "Shadow Eclipse Direwolf",
+    "series": "phantom-beasts",
+    "rarity": "R",
+    "imageTarget": "public/cards/beast-06.jpg",
+    "prompt": "Masterpiece digital trading card art of 月影夜吼巨狼 (Shadow Eclipse Direwolf): 體型宛如戰馬的漆黑魔狼，背部覆蓋著銳利的幽影骨刺。 oriental celestial myth fantasy concept art, sacred spiritual flames, divine clouds, celestial runes, majestic mythological beast painting. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "beast-07",
+    "name": "幽谷翡翠青龍",
+    "nameEn": "Verdant Jade Drake",
+    "series": "phantom-beasts",
+    "rarity": "SR",
+    "imageTarget": "public/cards/beast-07.jpg",
+    "prompt": "Masterpiece digital trading card art of 幽谷翡翠青龍 (Verdant Jade Drake): 守護萬年靈脈的東方神龍，鱗片如溫潤翡翠，呼出的雲氣可令枯木逢春。 oriental celestial myth fantasy concept art, sacred spiritual flames, divine clouds, celestial runes, majestic mythological beast painting. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "beast-08",
+    "name": "六尾幻月白狐·雪姬",
+    "nameEn": "Yukihime Six-Tails Mirage",
+    "series": "phantom-beasts",
+    "rarity": "SR",
+    "imageTarget": "public/cards/beast-08.jpg",
+    "prompt": "Masterpiece digital trading card art of 六尾幻月白狐·雪姬 (Yukihime Six-Tails Mirage): 化身為白衣狐耳少女的強大狐仙，身後六尾可幻化為抵擋萬千攻擊的冰魄結界。 oriental celestial myth fantasy concept art, sacred spiritual flames, divine clouds, celestial runes, majestic mythological beast painting. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "beast-09",
+    "name": "九尾天狐·玉藻前",
+    "nameEn": "Tamamo-no-Mae Nine-Tails Celestial",
+    "series": "phantom-beasts",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/beast-09.jpg",
+    "prompt": "Masterpiece digital trading card art of 九尾天狐·玉藻前 (Tamamo-no-Mae Nine-Tails Celestial): 青丘九尾一脈的至高皇女，九條金紅天尾遮天蔽日，眉心神紋執掌三界陰陽幻術。 oriental celestial myth fantasy concept art, sacred spiritual flames, divine clouds, celestial runes, majestic mythological beast painting. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "beast-10",
+    "name": "星辰裂空龍·巴哈姆特",
+    "nameEn": "Bahamut Star Sovereign Dragon",
+    "series": "phantom-beasts",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/beast-10.jpg",
+    "prompt": "Masterpiece digital trading card art of 星辰裂空龍·巴哈姆特 (Bahamut Star Sovereign Dragon): 棲息於銀河軌道的太古天龍，雙翼展開如宇宙星雲，口中吐息蘊含超新星爆炸的威能。 oriental celestial myth fantasy concept art, sacred spiritual flames, divine clouds, celestial runes, majestic mythological beast painting. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "beast-11",
+    "name": "原初聖獸·創世麒麟",
+    "nameEn": "Genesis Kirin the World Pillar",
+    "series": "phantom-beasts",
+    "rarity": "UR",
+    "imageTarget": "public/cards/beast-11.jpg",
+    "prompt": "Masterpiece digital trading card art of 原初聖獸·創世麒麟 (Genesis Kirin the World Pillar): 踏足四海支撐天地之極的中央瑞獸麒麟，周身環繞五行神環，萬靈之主。 oriental celestial myth fantasy concept art, sacred spiritual flames, divine clouds, celestial runes, majestic mythological beast painting. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "beast-12",
+    "name": "太古真祖·九幽神霄滅世天狐",
+    "nameEn": "EX // Primordial Nine-Heaven Skyfox Sovereign",
+    "series": "phantom-beasts",
+    "rarity": "EX",
+    "imageTarget": "public/cards/beast-12.jpg",
+    "prompt": "Masterpiece digital trading card art of 太古真祖·九幽神霄滅世天狐 (EX // Primordial Nine-Heaven Skyfox Sovereign): 超越時間源頭的萬狐之始祖。九尾化為九座連通神界的靈界天門，每一步落下皆激盪出浩瀚的蒼藍神霄天雷與永恆靈炎。 oriental celestial myth fantasy concept art, sacred spiritual flames, divine clouds, celestial runes, majestic mythological beast painting. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-halloween-01",
+    "name": "南瓜狂歡魔女·潘普金",
+    "nameEn": "Pumpkin Witch Punkin",
+    "series": "halloween",
+    "rarity": "SR",
+    "imageTarget": "public/cards/fest-halloween-01.jpg",
+    "prompt": "Masterpiece digital trading card art of 南瓜狂歡魔女·潘普金 (Pumpkin Witch Punkin): 騎著發光南瓜掃帚的搗蛋魔女，糖果籃裡裝滿了會咬人的幽靈棉花糖。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-halloween-02",
+    "name": "萬聖深淵魅影·死神小丑",
+    "nameEn": "Halloween Abyss Jester Reaper",
+    "series": "halloween",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/fest-halloween-02.jpg",
+    "prompt": "Masterpiece digital trading card art of 萬聖深淵魅影·死神小丑 (Halloween Abyss Jester Reaper): 在萬聖之夜從南瓜燈縫隙中鑽出的深淵小丑，手握巨型糖果鐮刀。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-christmas-01",
+    "name": "聖夜雪國妖精·諾艾爾",
+    "nameEn": "Noelle of Holy Starlight",
+    "series": "christmas",
+    "rarity": "SR",
+    "imageTarget": "public/cards/fest-christmas-01.jpg",
+    "prompt": "Masterpiece digital trading card art of 聖夜雪國妖精·諾艾爾 (Noelle of Holy Starlight): 身穿紅色斗篷、頭戴槲寄生花環的雪精靈，將祝福的光點灑向煙囪。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-christmas-02",
+    "name": "極光聖鹿守護者·尤爾",
+    "nameEn": "Yule Aurora Stag Sovereign",
+    "series": "christmas",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/fest-christmas-02.jpg",
+    "prompt": "Masterpiece digital trading card art of 極光聖鹿守護者·尤爾 (Yule Aurora Stag Sovereign): 雙角如極光星輝蔓延的神聖雪鹿，踏著銀鈴奔行在夜空雲端。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-newyear-01",
+    "name": "歲旦破曉神女·朝陽",
+    "nameEn": "Asahi Dawn Goddess of New Year",
+    "series": "new-year",
+    "rarity": "SR",
+    "imageTarget": "public/cards/fest-newyear-01.jpg",
+    "prompt": "Masterpiece digital trading card art of 歲旦破曉神女·朝陽 (Asahi Dawn Goddess of New Year): 身穿白底紅梅和服的神社巫女，手搖破魔神樂鈴，迎接新年的初日之光。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-newyear-02",
+    "name": "金甲辟邪祥龍·歲歲",
+    "nameEn": "Golden Auspicious Celestial Dragon",
+    "series": "new-year",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/fest-newyear-02.jpg",
+    "prompt": "Masterpiece digital trading card art of 金甲辟邪祥龍·歲歲 (Golden Auspicious Celestial Dragon): 盤旋於新年爆竹與金光中的五爪金龍，口銜如意寶珠，賜福萬家燈火。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-valentines-01",
+    "name": "甜心巧克力戀人·可可",
+    "nameEn": "Cocoa Sweetheart Cupid",
+    "series": "valentines",
+    "rarity": "SR",
+    "imageTarget": "public/cards/fest-valentines-01.jpg",
+    "prompt": "Masterpiece digital trading card art of 甜心巧克力戀人·可可 (Cocoa Sweetheart Cupid): 用濃郁黑巧克力與草莓奶油親手烘焙愛心的使魔少女，箭頭裝滿了甜意。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-valentines-02",
+    "name": "純白誓約花嫁·維多莉亞",
+    "nameEn": "Victoria the Bridal Vow",
+    "series": "valentines",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/fest-valentines-02.jpg",
+    "prompt": "Masterpiece digital trading card art of 純白誓約花嫁·維多莉亞 (Victoria the Bridal Vow): 手捧藍色妖姬與純白百合的新娘，拖曳著十米水晶頭紗步入神殿。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-sakura-01",
+    "name": "落櫻劍姬·美櫻",
+    "nameEn": "Mio the Cherry Blossom Blademaster",
+    "series": "sakura-festival",
+    "rarity": "SR",
+    "imageTarget": "public/cards/fest-sakura-01.jpg",
+    "prompt": "Masterpiece digital trading card art of 落櫻劍姬·美櫻 (Mio the Cherry Blossom Blademaster): 在櫻花樹下起舞的拔刀術高手，刀尖掠過之處，櫻瓣化作破空劍氣。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-sakura-02",
+    "name": "千本櫻神木之靈·花舞",
+    "nameEn": "Hanamai Spirit of the Millennium Sakura",
+    "series": "sakura-festival",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/fest-sakura-02.jpg",
+    "prompt": "Masterpiece digital trading card art of 千本櫻神木之靈·花舞 (Hanamai Spirit of the Millennium Sakura): 守護千年櫻神木的花之女神，粉櫻紛飛籠罩整個春日的京都。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-summer-01",
+    "name": "夏祭浴衣少女·風鈴",
+    "nameEn": "Furine Summer Festival Maiden",
+    "series": "summer-festival",
+    "rarity": "SR",
+    "imageTarget": "public/cards/fest-summer-01.jpg",
+    "prompt": "Masterpiece digital trading card art of 夏祭浴衣少女·風鈴 (Furine Summer Festival Maiden): 手持金魚袋與蘋果糖的盛夏少女，腰間風鈴在夜市的微風中叮咚作響。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-summer-02",
+    "name": "幻彩夜空花火龍·焰火",
+    "nameEn": "Hanabi Dragon of the Summer Sky",
+    "series": "summer-festival",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/fest-summer-02.jpg",
+    "prompt": "Masterpiece digital trading card art of 幻彩夜空花火龍·焰火 (Hanabi Dragon of the Summer Sky): 由千萬枚祭典煙花光芒凝聚而成的星火神龍，在海面夜空騰躍翻滾。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-midautumn-01",
+    "name": "月宮搗藥玉兔·糖糖",
+    "nameEn": "Moon Rabbit Tangtang",
+    "series": "mid-autumn",
+    "rarity": "SR",
+    "imageTarget": "public/cards/fest-midautumn-01.jpg",
+    "prompt": "Masterpiece digital trading card art of 月宮搗藥玉兔·糖糖 (Moon Rabbit Tangtang): 在廣寒宮桂花樹下專心研磨仙丹月餅的長耳小兔仙，身旁飄浮著星辰糖霜。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-midautumn-02",
+    "name": "廣寒月華仙子·嫦娥",
+    "nameEn": "Chang'e Empress of the Silver Moon",
+    "series": "mid-autumn",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/fest-midautumn-02.jpg",
+    "prompt": "Masterpiece digital trading card art of 廣寒月華仙子·嫦娥 (Chang'e Empress of the Silver Moon): 懷抱玉兔、衣袂翩躚的月宮至尊仙姝，身後一輪巨大的滿月照徹萬水千山。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-anniv-01",
+    "name": "幻藏典籍守護妖精·庫拉",
+    "nameEn": "Kura the Archive Gatekeeper",
+    "series": "anniversary",
+    "rarity": "SR",
+    "imageTarget": "public/cards/fest-anniv-01.jpg",
+    "prompt": "Masterpiece digital trading card art of 幻藏典籍守護妖精·庫拉 (Kura the Archive Gatekeeper): 守護深淵幻藏宏偉大圖書館的小精靈，胸前掛著開啟所有時空大門的金色鑰匙。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-anniv-02",
+    "name": "萬界交匯·幻藏創世締造者",
+    "nameEn": "Abyssal Architect of All Realities",
+    "series": "anniversary",
+    "rarity": "UR",
+    "imageTarget": "public/cards/fest-anniv-02.jpg",
+    "prompt": "Masterpiece digital trading card art of 萬界交匯·幻藏創世締造者 (Abyssal Architect of All Realities): 編織整個深淵幻藏多元卡牌世界的無上神明，掌心懸浮著象徵深海水母徽章的黃金魔方。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-eclipse-01",
+    "name": "月蝕暗夜祈願者·奈芙",
+    "nameEn": "Nef the Lunar Eclipse Priestess",
+    "series": "abyss-eclipse",
+    "rarity": "SR",
+    "imageTarget": "public/cards/fest-eclipse-01.jpg",
+    "prompt": "Masterpiece digital trading card art of 月蝕暗夜祈願者·奈芙 (Nef the Lunar Eclipse Priestess): 在日蝕降臨之際詠唱暗月聖歌的祭司，雙手捧著黑曜石凝成的暗黑日晷。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-eclipse-02",
+    "name": "蝕之曜靈·黑日神姬",
+    "nameEn": "Solar Eclipse Black Sun Goddess",
+    "series": "abyss-eclipse",
+    "rarity": "UR",
+    "imageTarget": "public/cards/fest-eclipse-02.jpg",
+    "prompt": "Masterpiece digital trading card art of 蝕之曜靈·黑日神姬 (Solar Eclipse Black Sun Goddess): 太陽與月亮完全重疊時誕生的終末神祇，周身燃燒著冰冷的黑色光冕。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "abyss-16",
+    "name": "碧落龍王幼體",
+    "nameEn": "Verdant Deep Dragon Whelp",
+    "series": "abyssal-jellyfish",
+    "rarity": "R",
+    "imageTarget": "public/cards/abyss-16.jpg",
+    "prompt": "Masterpiece digital trading card art of 碧落龍王幼體 (Verdant Deep Dragon Whelp): 生長於熱液珊瑚礁岩的碧色幼龍，頭頂觸鬚能感知五千米外的海浪湧動。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "abyss-17",
+    "name": "深海珊瑚刺棘蟹",
+    "nameEn": "Abyssal Coral Spiny Crab",
+    "series": "abyssal-jellyfish",
+    "rarity": "N",
+    "imageTarget": "public/cards/abyss-17.jpg",
+    "prompt": "Masterpiece digital trading card art of 深海珊瑚刺棘蟹 (Abyssal Coral Spiny Crab): 甲殼上生長著晶瑩發光珊瑚的古代甲殼巨物，雙螯猶如金剛石鉗。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "abyss-18",
+    "name": "潮汐幻影水母",
+    "nameEn": "Tidal Phantom Jelly",
+    "series": "abyssal-jellyfish",
+    "rarity": "SR",
+    "imageTarget": "public/cards/abyss-18.jpg",
+    "prompt": "Masterpiece digital trading card art of 潮汐幻影水母 (Tidal Phantom Jelly): 能在洋流中化為無形水汽的幻影水母，其傘體能在深藍與透明之間任意轉換。 bioluminescent deep sea photography, underwater caustics, abyssal trench darkness, translucent glowing tentacles, mystical runes, 8k resolution fantasy art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "nocturne-14",
+    "name": "灰燼石像鬼·格羅姆",
+    "nameEn": "Gargoyle of the Ash Spire",
+    "series": "nocturne-fantasy",
+    "rarity": "N",
+    "imageTarget": "public/cards/nocturne-14.jpg",
+    "prompt": "Masterpiece digital trading card art of 灰燼石像鬼·格羅姆 (Gargoyle of the Ash Spire): 蹲踞在古老尖塔之頂的石化惡魔，每逢血月之夜便會抖落灰燼復甦。 dark gothic anime fantasy masterpiece, stained glass moonlit cathedral, roses, ornate gothic attire, glowing magical circles, hyper-detailed character art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "nocturne-15",
+    "name": "幽夜占星術士·卡蓮",
+    "nameEn": "Karen Night Astrologer",
+    "series": "nocturne-fantasy",
+    "rarity": "R",
+    "imageTarget": "public/cards/nocturne-15.jpg",
+    "prompt": "Masterpiece digital trading card art of 幽夜占星術士·卡蓮 (Karen Night Astrologer): 手持渾天儀與水晶魔導盤的占星少女，能窺探星空編織的宿命之線。 dark gothic anime fantasy masterpiece, stained glass moonlit cathedral, roses, ornate gothic attire, glowing magical circles, hyper-detailed character art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "nocturne-16",
+    "name": "斷罪死神·赫爾",
+    "nameEn": "Hel Judge of Stygian Veil",
+    "series": "nocturne-fantasy",
+    "rarity": "SR",
+    "imageTarget": "public/cards/nocturne-16.jpg",
+    "prompt": "Masterpiece digital trading card art of 斷罪死神·赫爾 (Hel Judge of Stygian Veil): 手持幽冥巨鐮、雙眸泛著冰冷寒光的冥界審判官，一鐮可斬斷靈魂之鎖。 dark gothic anime fantasy masterpiece, stained glass moonlit cathedral, roses, ornate gothic attire, glowing magical circles, hyper-detailed character art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "nocturne-17",
+    "name": "虛空魔王·巴爾",
+    "nameEn": "Baal Monarch of the Abyss Void",
+    "series": "nocturne-fantasy",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/nocturne-17.jpg",
+    "prompt": "Masterpiece digital trading card art of 虛空魔王·巴爾 (Baal Monarch of the Abyss Void): 自深淵黑洞中甦醒的七十二魔神之首，巨角遮天，腳踏幽冥紫焰。 dark gothic anime fantasy masterpiece, stained glass moonlit cathedral, roses, ornate gothic attire, glowing magical circles, hyper-detailed character art. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "neon-12",
+    "name": "數據暗網幽靈·幻",
+    "nameEn": "Darknet Wraith Mirage",
+    "series": "neon-district",
+    "rarity": "R",
+    "imageTarget": "public/cards/neon-12.jpg",
+    "prompt": "Masterpiece digital trading card art of 數據暗網幽靈·幻 (Darknet Wraith Mirage): 穿梭於廢棄伺服器群中的無形代碼怨念，能瞬間癱瘓整條街區的光電網絡。 cyberpunk anime illustration, neon-soaked rain city at night, cyan and magenta holographic HUD, fiber optic wires, futuristic chrome details. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "neon-13",
+    "name": "浮空城治安官·黑曜",
+    "nameEn": "Obsidian Enforcer Chief",
+    "series": "neon-district",
+    "rarity": "SR",
+    "imageTarget": "public/cards/neon-13.jpg",
+    "prompt": "Masterpiece digital trading card art of 浮空城治安官·黑曜 (Obsidian Enforcer Chief): 裝備次世代隱形動力裝甲與電磁重狙的王牌執法人員。 cyberpunk anime illustration, neon-soaked rain city at night, cyan and magenta holographic HUD, fiber optic wires, futuristic chrome details. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "neon-14",
+    "name": "靈魂轉移者·明日香",
+    "nameEn": "Asuka Soul Synapse Driver",
+    "series": "neon-district",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/neon-14.jpg",
+    "prompt": "Masterpiece digital trading card art of 靈魂轉移者·明日香 (Asuka Soul Synapse Driver): 駕駛特化神經共振戰鬥裝甲的粉髮少女，擁有超越常人百倍的反應速度。 cyberpunk anime illustration, neon-soaked rain city at night, cyan and magenta holographic HUD, fiber optic wires, futuristic chrome details. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "beast-13",
+    "name": "靈火彩羽孔雀",
+    "nameEn": "Prismatic Flame Peacock",
+    "series": "phantom-beasts",
+    "rarity": "N",
+    "imageTarget": "public/cards/beast-13.jpg",
+    "prompt": "Masterpiece digital trading card art of 靈火彩羽孔雀 (Prismatic Flame Peacock): 尾羽展開時散發著七彩靈火的仙鳥，其啼鳴能驅散迷霧。 oriental celestial myth fantasy concept art, sacred spiritual flames, divine clouds, celestial runes, majestic mythological beast painting. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "beast-14",
+    "name": "奔雷金翅大鵬·幼羽",
+    "nameEn": "Golden Roc Thunder Fledgling",
+    "series": "phantom-beasts",
+    "rarity": "R",
+    "imageTarget": "public/cards/beast-14.jpg",
+    "prompt": "Masterpiece digital trading card art of 奔雷金翅大鵬·幼羽 (Golden Roc Thunder Fledgling): 羽翼纏繞金色雷霆的大鵬鳥幼崽，振翅可激盪出金色電弧。 oriental celestial myth fantasy concept art, sacred spiritual flames, divine clouds, celestial runes, majestic mythological beast painting. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "beast-15",
+    "name": "混沌吞噬者·芬里爾",
+    "nameEn": "Fenrir the World Eater Direwolf",
+    "series": "phantom-beasts",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/beast-15.jpg",
+    "prompt": "Masterpiece digital trading card art of 混沌吞噬者·芬里爾 (Fenrir the World Eater Direwolf): 掙脫了諸神鎖鏈的太古凶狼，雙目如赤血驕陽，巨口可吞噬日月。 oriental celestial myth fantasy concept art, sacred spiritual flames, divine clouds, celestial runes, majestic mythological beast painting. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "beast-16",
+    "name": "燭陰九幽銜燭之龍",
+    "nameEn": "Zhu Long the Torch Dragon of Nine Hells",
+    "series": "phantom-beasts",
+    "rarity": "UR",
+    "imageTarget": "public/cards/beast-16.jpg",
+    "prompt": "Masterpiece digital trading card art of 燭陰九幽銜燭之龍 (Zhu Long the Torch Dragon of Nine Hells): 太古鍾山之神，口銜天火之燭，睜眼為晝，閉眼為夜，吹氣為冬，呼氣為夏。 oriental celestial myth fantasy concept art, sacred spiritual flames, divine clouds, celestial runes, majestic mythological beast painting. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-halloween-03",
+    "name": "厄夜狂歡伯爵·德古拉",
+    "nameEn": "Count of All Hallows Eve",
+    "series": "halloween",
+    "rarity": "UR",
+    "imageTarget": "public/cards/fest-halloween-03.jpg",
+    "prompt": "Masterpiece digital trading card art of 厄夜狂歡伯爵·德古拉 (Count of All Hallows Eve): 在萬聖狂歡之夜化身為無數吸血蝙蝠與南瓜燈的古老吸血鬼伯爵。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-eclipse-03",
+    "name": "吞日暗影龍·阿波菲斯",
+    "nameEn": "Apophis Dragon of Total Eclipse",
+    "series": "abyss-eclipse",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/fest-eclipse-03.jpg",
+    "prompt": "Masterpiece digital trading card art of 吞日暗影龍·阿波菲斯 (Apophis Dragon of Total Eclipse): 盤踞於月球暗面的巨蛇暗影龍，專門以日蝕時的光冕能量為食。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  },
+  {
+    "id": "fest-anniv-03",
+    "name": "星河織錦·慶典天女",
+    "nameEn": "Celestial Weaver of the Galaxy Gala",
+    "series": "anniversary",
+    "rarity": "SSR",
+    "imageTarget": "public/cards/fest-anniv-03.jpg",
+    "prompt": "Masterpiece digital trading card art of 星河織錦·慶典天女 (Celestial Weaver of the Galaxy Gala): 以星辰之絲編織一年慶典華彩衣裳的天女，漫步於深海幻藏的光之長廊。 limited festival holiday celebration fantasy illustration, commemorative celestial ornaments, vibrant particle fireworks, masterpiece trading card. Distinct, gorgeous character and creature focus. Aspect ratio 3:4."
+  }
+]

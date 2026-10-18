@@ -1,0 +1,2900 @@
+[
+  {
+    "id": "abyss-01",
+    "name": "幽光幼水母",
+    "nameEn": "Luminous Polyp",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-02",
+    "name": "深海銀刺魚",
+    "nameEn": "Silver Spined Abyssal",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-03",
+    "name": "碎光海葵",
+    "nameEn": "Prismatic Sea Anemone",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-04",
+    "name": "藍環深海膽",
+    "nameEn": "Blue-Ring Deep Urchin",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-05",
+    "name": "苔蘚深海星",
+    "nameEn": "Mossy Starlight Asteroidea",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-06",
+    "name": "琉璃羽水母",
+    "nameEn": "Glazed Feather Jelly",
+    "series": "abyssal-jellyfish",
+    "rarity": "R"
+  },
+  {
+    "id": "abyss-07",
+    "name": "浮光僧帽水母",
+    "nameEn": "Physalia Luminesca",
+    "series": "abyssal-jellyfish",
+    "rarity": "R"
+  },
+  {
+    "id": "abyss-08",
+    "name": "珍珠黑鸚鵡螺",
+    "nameEn": "Black Pearl Nautilus",
+    "series": "abyssal-jellyfish",
+    "rarity": "R"
+  },
+  {
+    "id": "abyss-09",
+    "name": "幽冥燈塔水母",
+    "nameEn": "Stygian Beacon Medusa",
+    "series": "abyssal-jellyfish",
+    "rarity": "SR"
+  },
+  {
+    "id": "abyss-10",
+    "name": "蒼藍海龍王·幼體",
+    "nameEn": "Azure Ocean Wyrm Whelp",
+    "series": "abyssal-jellyfish",
+    "rarity": "SR"
+  },
+  {
+    "id": "abyss-11",
+    "name": "靈魂海皇蝶",
+    "nameEn": "Soul Monarch Pelagia",
+    "series": "abyssal-jellyfish",
+    "rarity": "SR"
+  },
+  {
+    "id": "abyss-12",
+    "name": "幻海天女水母",
+    "nameEn": "Celestial Nereid Medusa",
+    "series": "abyssal-jellyfish",
+    "rarity": "SSR"
+  },
+  {
+    "id": "abyss-13",
+    "name": "深淵巨神鯨·克羅諾斯",
+    "nameEn": "Titan Leviathan Chronos",
+    "series": "abyssal-jellyfish",
+    "rarity": "SSR"
+  },
+  {
+    "id": "abyss-14",
+    "name": "始源蒼藍水母皇",
+    "nameEn": "Sovereign of the Deep Cyan",
+    "series": "abyssal-jellyfish",
+    "rarity": "UR"
+  },
+  {
+    "id": "abyss-15",
+    "name": "深淵幽魂·永生原初水母皇",
+    "nameEn": "EX // Primordial Abyssal Eidolon",
+    "series": "abyssal-jellyfish",
+    "rarity": "EX"
+  },
+  {
+    "id": "nocturne-01",
+    "name": "誓約見習術士",
+    "nameEn": "Apprentice of Stygian Oath",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-02",
+    "name": "迷途夜鴉",
+    "nameEn": "Lost Midnight Raven",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-03",
+    "name": "灰燼使魔·皮皮",
+    "nameEn": "Cinder Familiar",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-04",
+    "name": "巡夜暗影僕從",
+    "nameEn": "Nightwatcher Shade",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-05",
+    "name": "月影刺客·千鶴",
+    "nameEn": "Chizuru the Moonblade",
+    "series": "nocturne-fantasy",
+    "rarity": "R"
+  },
+  {
+    "id": "nocturne-06",
+    "name": "符文鍊金術師·奧莉維亞",
+    "nameEn": "Alchemist Olivia",
+    "series": "nocturne-fantasy",
+    "rarity": "R"
+  },
+  {
+    "id": "nocturne-07",
+    "name": "黑薔薇雙槍·維克多",
+    "nameEn": "Victor Blackrose Gunslinger",
+    "series": "nocturne-fantasy",
+    "rarity": "R"
+  },
+  {
+    "id": "nocturne-08",
+    "name": "猩紅修女·瑟蕾娜",
+    "nameEn": "Sister Serena of Red Vow",
+    "series": "nocturne-fantasy",
+    "rarity": "SR"
+  },
+  {
+    "id": "nocturne-09",
+    "name": "星界魔導士·伊修達爾",
+    "nameEn": "Astral Archmage Ishtar",
+    "series": "nocturne-fantasy",
+    "rarity": "SR"
+  },
+  {
+    "id": "nocturne-10",
+    "name": "緋紅血祖·莉莉絲",
+    "nameEn": "Lilith Blood Empress",
+    "series": "nocturne-fantasy",
+    "rarity": "SSR"
+  },
+  {
+    "id": "nocturne-11",
+    "name": "虛空墮天·路西法",
+    "nameEn": "Lucifer the Void Fallen",
+    "series": "nocturne-fantasy",
+    "rarity": "SSR"
+  },
+  {
+    "id": "nocturne-12",
+    "name": "萬象終焉·創世魔導艾蕾娜",
+    "nameEn": "Elena the Omniscience Genesis",
+    "series": "nocturne-fantasy",
+    "rarity": "UR"
+  },
+  {
+    "id": "nocturne-13",
+    "name": "幽夜神座·深紅女帝卡蜜拉·終焉",
+    "nameEn": "EX // Empress Camilla Nocturne Apex",
+    "series": "nocturne-fantasy",
+    "rarity": "EX"
+  },
+  {
+    "id": "neon-01",
+    "name": "巡邏機械犬·汪達",
+    "nameEn": "Unit-7 Wander Cyber Hound",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-02",
+    "name": "雨夜外送騎手·零",
+    "nameEn": "Midnight Courier Zero",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-03",
+    "name": "街頭塗鴉駭客·霓彩",
+    "nameEn": "Glitch Graffiti Artist",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-04",
+    "name": "地下義體修復師·老漢克",
+    "nameEn": "Black Market Ripperdoc",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-05",
+    "name": "賽博劍客·朧",
+    "nameEn": "Cyber Ronin Oboro",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-06",
+    "name": "夜總會全息歌姬·愛麗絲",
+    "nameEn": "Holo Diva Alice",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-07",
+    "name": "重型機甲武姬·瓦爾基麗",
+    "nameEn": "Heavy Mech Valkyrie V-9",
+    "series": "neon-district",
+    "rarity": "SR"
+  },
+  {
+    "id": "neon-08",
+    "name": "矩陣幽靈·奇點",
+    "nameEn": "Matrix Ghost Singularity",
+    "series": "neon-district",
+    "rarity": "SR"
+  },
+  {
+    "id": "neon-09",
+    "name": "企業巨閥審判官·克羅諾斯",
+    "nameEn": "Corpo High Inquisitor Chronos",
+    "series": "neon-district",
+    "rarity": "SSR"
+  },
+  {
+    "id": "neon-10",
+    "name": "神經網絡核心·蓋亞",
+    "nameEn": "GAIA Deep Core AI",
+    "series": "neon-district",
+    "rarity": "UR"
+  },
+  {
+    "id": "neon-11",
+    "name": "零號奇點·全知超導體·量子神姬",
+    "nameEn": "EX // Singularity Empress Quantum Eve",
+    "series": "neon-district",
+    "rarity": "EX"
+  },
+  {
+    "id": "beast-01",
+    "name": "青丘靈狐幼崽",
+    "nameEn": "Qingqiu Spirit Kit",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-02",
+    "name": "踏雪靈貓",
+    "nameEn": "Snowstride Phantom Cat",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-03",
+    "name": "霜原幼角狼",
+    "nameEn": "Frost Horn Wolf Pup",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-04",
+    "name": "雲翼天馬幼體",
+    "nameEn": "Pegasus Sky Foal",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-05",
+    "name": "三尾赤焰狐",
+    "nameEn": "Tri-Tail Scarlet Fox",
+    "series": "phantom-beasts",
+    "rarity": "R"
+  },
+  {
+    "id": "beast-06",
+    "name": "月影夜吼巨狼",
+    "nameEn": "Shadow Eclipse Direwolf",
+    "series": "phantom-beasts",
+    "rarity": "R"
+  },
+  {
+    "id": "beast-07",
+    "name": "幽谷翡翠青龍",
+    "nameEn": "Verdant Jade Drake",
+    "series": "phantom-beasts",
+    "rarity": "SR"
+  },
+  {
+    "id": "beast-08",
+    "name": "六尾幻月白狐·雪姬",
+    "nameEn": "Yukihime Six-Tails Mirage",
+    "series": "phantom-beasts",
+    "rarity": "SR"
+  },
+  {
+    "id": "beast-09",
+    "name": "九尾天狐·玉藻前",
+    "nameEn": "Tamamo-no-Mae Nine-Tails Celestial",
+    "series": "phantom-beasts",
+    "rarity": "SSR"
+  },
+  {
+    "id": "beast-10",
+    "name": "星辰裂空龍·巴哈姆特",
+    "nameEn": "Bahamut Star Sovereign Dragon",
+    "series": "phantom-beasts",
+    "rarity": "SSR"
+  },
+  {
+    "id": "beast-11",
+    "name": "原初聖獸·創世麒麟",
+    "nameEn": "Genesis Kirin the World Pillar",
+    "series": "phantom-beasts",
+    "rarity": "UR"
+  },
+  {
+    "id": "beast-12",
+    "name": "太古真祖·九幽神霄滅世天狐",
+    "nameEn": "EX // Primordial Nine-Heaven Skyfox Sovereign",
+    "series": "phantom-beasts",
+    "rarity": "EX"
+  },
+  {
+    "id": "fest-halloween-01",
+    "name": "南瓜狂歡魔女·潘普金",
+    "nameEn": "Pumpkin Witch Punkin",
+    "series": "halloween",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-halloween-02",
+    "name": "萬聖深淵魅影·死神小丑",
+    "nameEn": "Halloween Abyss Jester Reaper",
+    "series": "halloween",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-christmas-01",
+    "name": "聖夜雪國妖精·諾艾爾",
+    "nameEn": "Noelle of Holy Starlight",
+    "series": "christmas",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-christmas-02",
+    "name": "極光聖鹿守護者·尤爾",
+    "nameEn": "Yule Aurora Stag Sovereign",
+    "series": "christmas",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-newyear-01",
+    "name": "歲旦破曉神女·朝陽",
+    "nameEn": "Asahi Dawn Goddess of New Year",
+    "series": "new-year",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-newyear-02",
+    "name": "金甲辟邪祥龍·歲歲",
+    "nameEn": "Golden Auspicious Celestial Dragon",
+    "series": "new-year",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-valentines-01",
+    "name": "甜心巧克力戀人·可可",
+    "nameEn": "Cocoa Sweetheart Cupid",
+    "series": "valentines",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-valentines-02",
+    "name": "純白誓約花嫁·維多莉亞",
+    "nameEn": "Victoria the Bridal Vow",
+    "series": "valentines",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-sakura-01",
+    "name": "落櫻劍姬·美櫻",
+    "nameEn": "Mio the Cherry Blossom Blademaster",
+    "series": "sakura-festival",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-sakura-02",
+    "name": "千本櫻神木之靈·花舞",
+    "nameEn": "Hanamai Spirit of the Millennium Sakura",
+    "series": "sakura-festival",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-summer-01",
+    "name": "夏祭浴衣少女·風鈴",
+    "nameEn": "Furine Summer Festival Maiden",
+    "series": "summer-festival",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-summer-02",
+    "name": "幻彩夜空花火龍·焰火",
+    "nameEn": "Hanabi Dragon of the Summer Sky",
+    "series": "summer-festival",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-midautumn-01",
+    "name": "月宮搗藥玉兔·糖糖",
+    "nameEn": "Moon Rabbit Tangtang",
+    "series": "mid-autumn",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-midautumn-02",
+    "name": "廣寒月華仙子·嫦娥",
+    "nameEn": "Chang'e Empress of the Silver Moon",
+    "series": "mid-autumn",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-anniv-01",
+    "name": "幻藏典籍守護妖精·庫拉",
+    "nameEn": "Kura the Archive Gatekeeper",
+    "series": "anniversary",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-anniv-02",
+    "name": "萬界交匯·幻藏創世締造者",
+    "nameEn": "Abyssal Architect of All Realities",
+    "series": "anniversary",
+    "rarity": "UR"
+  },
+  {
+    "id": "fest-eclipse-01",
+    "name": "月蝕暗夜祈願者·奈芙",
+    "nameEn": "Nef the Lunar Eclipse Priestess",
+    "series": "abyss-eclipse",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-eclipse-02",
+    "name": "蝕之曜靈·黑日神姬",
+    "nameEn": "Solar Eclipse Black Sun Goddess",
+    "series": "abyss-eclipse",
+    "rarity": "UR"
+  },
+  {
+    "id": "abyss-16",
+    "name": "碧落龍王幼體",
+    "nameEn": "Verdant Deep Dragon Whelp",
+    "series": "abyssal-jellyfish",
+    "rarity": "R"
+  },
+  {
+    "id": "abyss-17",
+    "name": "深海珊瑚刺棘蟹",
+    "nameEn": "Abyssal Coral Spiny Crab",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-18",
+    "name": "潮汐幻影水母",
+    "nameEn": "Tidal Phantom Jelly",
+    "series": "abyssal-jellyfish",
+    "rarity": "SR"
+  },
+  {
+    "id": "nocturne-14",
+    "name": "灰燼石像鬼·格羅姆",
+    "nameEn": "Gargoyle of the Ash Spire",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-15",
+    "name": "幽夜占星術士·卡蓮",
+    "nameEn": "Karen Night Astrologer",
+    "series": "nocturne-fantasy",
+    "rarity": "R"
+  },
+  {
+    "id": "nocturne-16",
+    "name": "斷罪死神·赫爾",
+    "nameEn": "Hel Judge of Stygian Veil",
+    "series": "nocturne-fantasy",
+    "rarity": "SR"
+  },
+  {
+    "id": "nocturne-17",
+    "name": "虛空魔王·巴爾",
+    "nameEn": "Baal Monarch of the Abyss Void",
+    "series": "nocturne-fantasy",
+    "rarity": "SSR"
+  },
+  {
+    "id": "neon-12",
+    "name": "數據暗網幽靈·幻",
+    "nameEn": "Darknet Wraith Mirage",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-13",
+    "name": "浮空城治安官·黑曜",
+    "nameEn": "Obsidian Enforcer Chief",
+    "series": "neon-district",
+    "rarity": "SR"
+  },
+  {
+    "id": "neon-14",
+    "name": "靈魂轉移者·明日香",
+    "nameEn": "Asuka Soul Synapse Driver",
+    "series": "neon-district",
+    "rarity": "SSR"
+  },
+  {
+    "id": "beast-13",
+    "name": "靈火彩羽孔雀",
+    "nameEn": "Prismatic Flame Peacock",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-14",
+    "name": "奔雷金翅大鵬·幼羽",
+    "nameEn": "Golden Roc Thunder Fledgling",
+    "series": "phantom-beasts",
+    "rarity": "R"
+  },
+  {
+    "id": "beast-15",
+    "name": "混沌吞噬者·芬里爾",
+    "nameEn": "Fenrir the World Eater Direwolf",
+    "series": "phantom-beasts",
+    "rarity": "SSR"
+  },
+  {
+    "id": "beast-16",
+    "name": "燭陰九幽銜燭之龍",
+    "nameEn": "Zhu Long the Torch Dragon of Nine Hells",
+    "series": "phantom-beasts",
+    "rarity": "UR"
+  },
+  {
+    "id": "fest-halloween-03",
+    "name": "厄夜狂歡伯爵·德古拉",
+    "nameEn": "Count of All Hallows Eve",
+    "series": "halloween",
+    "rarity": "UR"
+  },
+  {
+    "id": "fest-eclipse-03",
+    "name": "吞日暗影龍·阿波菲斯",
+    "nameEn": "Apophis Dragon of Total Eclipse",
+    "series": "abyss-eclipse",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-anniv-03",
+    "name": "星河織錦·慶典天女",
+    "nameEn": "Celestial Weaver of the Galaxy Gala",
+    "series": "anniversary",
+    "rarity": "SSR"
+  },
+  {
+    "id": "abyss-19",
+    "name": "深海幽光盲鰻 #19",
+    "nameEn": "Luminous Hagfish #19",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-20",
+    "name": "冰海琉璃螺 #20",
+    "nameEn": "Glacial Crystal Snail #20",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-21",
+    "name": "暗流幽靈蝦 #21",
+    "nameEn": "Abyssal Ghost Shrimp #21",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-22",
+    "name": "紫晶深海參 #22",
+    "nameEn": "Amethyst Sea Cucumber #22",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-23",
+    "name": "幽冥浮游幼體 #23",
+    "nameEn": "Nether Plankton Larva #23",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-24",
+    "name": "銀弧飛魚 #24",
+    "nameEn": "Silver Arc Flying Fish #24",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-25",
+    "name": "冷光海百合 #25",
+    "nameEn": "Luminescent Crinoid #25",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-26",
+    "name": "幽藍螢火烏賊 #26",
+    "nameEn": "Azure Firefly Squid #26",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-27",
+    "name": "玄鐵深海蟹 #27",
+    "nameEn": "Obsidian Trench Crab #27",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-28",
+    "name": "幻光海蛞蝓 #28",
+    "nameEn": "Prismatic Nudibranch #28",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-29",
+    "name": "幽幕海葵幼株 #29",
+    "nameEn": "Shadow Anemone Polyp #29",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-30",
+    "name": "冰霜海蝴蝶 #30",
+    "nameEn": "Frost Sea Butterfly #30",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-31",
+    "name": "深淵發光水蛇 #31",
+    "nameEn": "Abyssal Bioluminescent Viper #31",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-32",
+    "name": "晶化海膽幼體 #32",
+    "nameEn": "Crystalline Urchin Spat #32",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-33",
+    "name": "暗藍磷光水母 #33",
+    "nameEn": "Cyan Phosphor Medusa #33",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-34",
+    "name": "蒼光深海鮟鱇 #34",
+    "nameEn": "Azure Anglerfish #34",
+    "series": "abyssal-jellyfish",
+    "rarity": "R"
+  },
+  {
+    "id": "abyss-35",
+    "name": "金線海百合幼尊 #35",
+    "nameEn": "Golden Auric Crinoid #35",
+    "series": "abyssal-jellyfish",
+    "rarity": "R"
+  },
+  {
+    "id": "abyss-36",
+    "name": "霜翼冥海鰩 #36",
+    "nameEn": "Frost Wing Abyssal Ray #36",
+    "series": "abyssal-jellyfish",
+    "rarity": "R"
+  },
+  {
+    "id": "abyss-37",
+    "name": "珊瑚寄生水母 #37",
+    "nameEn": "Coral Parasite Jelly #37",
+    "series": "abyssal-jellyfish",
+    "rarity": "R"
+  },
+  {
+    "id": "abyss-38",
+    "name": "霓虹深海魷 #38",
+    "nameEn": "Neon District Abyssal Squid #38",
+    "series": "abyssal-jellyfish",
+    "rarity": "R"
+  },
+  {
+    "id": "abyss-39",
+    "name": "深海幽靈章魚 #39",
+    "nameEn": "Dumbo Phantom Octopus #39",
+    "series": "abyssal-jellyfish",
+    "rarity": "R"
+  },
+  {
+    "id": "abyss-40",
+    "name": "紫晶海龍幼體 #40",
+    "nameEn": "Amethyst Seadragon Pup #40",
+    "series": "abyssal-jellyfish",
+    "rarity": "R"
+  },
+  {
+    "id": "abyss-41",
+    "name": "潮汐巡遊水母 #41",
+    "nameEn": "Tidal Rover Medusa #41",
+    "series": "abyssal-jellyfish",
+    "rarity": "R"
+  },
+  {
+    "id": "abyss-42",
+    "name": "碧玉海龜幼靈 #42",
+    "nameEn": "Jade Turtle Hatchling #42",
+    "series": "abyssal-jellyfish",
+    "rarity": "R"
+  },
+  {
+    "id": "abyss-43",
+    "name": "雷光深海電鰩 #43",
+    "nameEn": "Thunderous Abyssal Torpedo #43",
+    "series": "abyssal-jellyfish",
+    "rarity": "R"
+  },
+  {
+    "id": "abyss-44",
+    "name": "蒼穹深海龍鰻 #44",
+    "nameEn": "Celestial Abyssal Moray #44",
+    "series": "abyssal-jellyfish",
+    "rarity": "SR"
+  },
+  {
+    "id": "abyss-45",
+    "name": "極光海皇水母 #45",
+    "nameEn": "Aurora Crown Jellyfish #45",
+    "series": "abyssal-jellyfish",
+    "rarity": "SR"
+  },
+  {
+    "id": "abyss-46",
+    "name": "深淵星核海膽君王 #46",
+    "nameEn": "Abyssal Stellar Urchin King #46",
+    "series": "abyssal-jellyfish",
+    "rarity": "SR"
+  },
+  {
+    "id": "abyss-47",
+    "name": "幽海幻蝶仙子 #47",
+    "nameEn": "Phantom Nereid Butterfly #47",
+    "series": "abyssal-jellyfish",
+    "rarity": "SR"
+  },
+  {
+    "id": "abyss-48",
+    "name": "深洋古鏡水母 #48",
+    "nameEn": "Abyssal Mirror Medusa #48",
+    "series": "abyssal-jellyfish",
+    "rarity": "SR"
+  },
+  {
+    "id": "abyss-49",
+    "name": "白銀劍吻巨鯊 #49",
+    "nameEn": "Silver Spathe Megalodon #49",
+    "series": "abyssal-jellyfish",
+    "rarity": "SR"
+  },
+  {
+    "id": "abyss-50",
+    "name": "深淵珊瑚女皇·克羅莉亞 #50",
+    "nameEn": "Coral Empress Gloria #50",
+    "series": "abyssal-jellyfish",
+    "rarity": "SR"
+  },
+  {
+    "id": "abyss-51",
+    "name": "遠古板塊神龜·奧林匹亞 #51",
+    "nameEn": "Tectonic Ancient Turtle #51",
+    "series": "abyssal-jellyfish",
+    "rarity": "SSR"
+  },
+  {
+    "id": "abyss-52",
+    "name": "深淵幻龍姬·阿芙洛 #52",
+    "nameEn": "Abyssal Dragon Maiden Aphro #52",
+    "series": "abyssal-jellyfish",
+    "rarity": "SSR"
+  },
+  {
+    "id": "abyss-53",
+    "name": "海溝裂界吞噬者 #53",
+    "nameEn": "Chasm Rift Devourer #53",
+    "series": "abyssal-jellyfish",
+    "rarity": "SSR"
+  },
+  {
+    "id": "abyss-54",
+    "name": "萬海極光水母神侍 #54",
+    "nameEn": "Aurelia the Aurora Maiden #54",
+    "series": "abyssal-jellyfish",
+    "rarity": "SSR"
+  },
+  {
+    "id": "abyss-55",
+    "name": "潮汐支配者·海皇波塞冬 #55",
+    "nameEn": "Poseidon Sovereign of Tides #55",
+    "series": "abyssal-jellyfish",
+    "rarity": "UR"
+  },
+  {
+    "id": "abyss-56",
+    "name": "永恆深洋世界之柱·利維坦 #56",
+    "nameEn": "Leviathan Pillar of Abyss #56",
+    "series": "abyssal-jellyfish",
+    "rarity": "UR"
+  },
+  {
+    "id": "abyss-57",
+    "name": "始源萬母·深海太初幽魂神尊 #57",
+    "nameEn": "EX // Mother of All Abyssal Depths #57",
+    "series": "abyssal-jellyfish",
+    "rarity": "EX"
+  },
+  {
+    "id": "abyss-58",
+    "name": "深海幽光盲鰻 #58",
+    "nameEn": "Luminous Hagfish #58",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-59",
+    "name": "冰海琉璃螺 #59",
+    "nameEn": "Glacial Crystal Snail #59",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-60",
+    "name": "暗流幽靈蝦 #60",
+    "nameEn": "Abyssal Ghost Shrimp #60",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-61",
+    "name": "紫晶深海參 #61",
+    "nameEn": "Amethyst Sea Cucumber #61",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-62",
+    "name": "幽冥浮游幼體 #62",
+    "nameEn": "Nether Plankton Larva #62",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-63",
+    "name": "銀弧飛魚 #63",
+    "nameEn": "Silver Arc Flying Fish #63",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-64",
+    "name": "冷光海百合 #64",
+    "nameEn": "Luminescent Crinoid #64",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-65",
+    "name": "幽藍螢火烏賊 #65",
+    "nameEn": "Azure Firefly Squid #65",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-66",
+    "name": "玄鐵深海蟹 #66",
+    "nameEn": "Obsidian Trench Crab #66",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-67",
+    "name": "幻光海蛞蝓 #67",
+    "nameEn": "Prismatic Nudibranch #67",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-68",
+    "name": "幽幕海葵幼株 #68",
+    "nameEn": "Shadow Anemone Polyp #68",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-69",
+    "name": "冰霜海蝴蝶 #69",
+    "nameEn": "Frost Sea Butterfly #69",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-70",
+    "name": "深淵發光水蛇 #70",
+    "nameEn": "Abyssal Bioluminescent Viper #70",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-71",
+    "name": "晶化海膽幼體 #71",
+    "nameEn": "Crystalline Urchin Spat #71",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "abyss-72",
+    "name": "暗藍磷光水母 #72",
+    "nameEn": "Cyan Phosphor Medusa #72",
+    "series": "abyssal-jellyfish",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-18",
+    "name": "黑夜信差貓頭鷹 #18",
+    "nameEn": "Midnight Messenger Owl #18",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-19",
+    "name": "墓園幽火靈 #19",
+    "nameEn": "Graveyard Will-o-Wisp #19",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-20",
+    "name": "黑曜石石像鬼幼獸 #20",
+    "nameEn": "Obsidian Gargoyle Whelp #20",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-21",
+    "name": "陰影小惡魔·斯皮克 #21",
+    "nameEn": "Shadow Imp Spike #21",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-22",
+    "name": "白骨巡卒 #22",
+    "nameEn": "Skeleton Patrol Soldier #22",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-23",
+    "name": "枯萎黑玫瑰妖精 #23",
+    "nameEn": "Withered Black Rose Fairy #23",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-24",
+    "name": "迷失幽靈侍女 #24",
+    "nameEn": "Lost Ghost Maid #24",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-25",
+    "name": "緋紅蝙蝠群 #25",
+    "nameEn": "Crimson Bat Swarm #25",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-26",
+    "name": "破曉暗影獵犬 #26",
+    "nameEn": "Dusk Shadow Hound #26",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-27",
+    "name": "古堡青銅發條人偶 #27",
+    "nameEn": "Bronze Clockwork Doll #27",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-28",
+    "name": "星界占卜學徒 #28",
+    "nameEn": "Astral Divination Apprentice #28",
+    "series": "nocturne-fantasy",
+    "rarity": "R"
+  },
+  {
+    "id": "nocturne-29",
+    "name": "黑薔薇十字刺客 #29",
+    "nameEn": "Black Rose Cross Assassin #29",
+    "series": "nocturne-fantasy",
+    "rarity": "R"
+  },
+  {
+    "id": "nocturne-30",
+    "name": "鮮血狂劍士·巴頓 #30",
+    "nameEn": "Blood Berserker Barton #30",
+    "series": "nocturne-fantasy",
+    "rarity": "R"
+  },
+  {
+    "id": "nocturne-31",
+    "name": "幽魂提琴手·莫爾 #31",
+    "nameEn": "Phantom Violinist Mohr #31",
+    "series": "nocturne-fantasy",
+    "rarity": "R"
+  },
+  {
+    "id": "nocturne-32",
+    "name": "白銀驅魔獵人·艾倫 #32",
+    "nameEn": "Silver Exorcist Alan #32",
+    "series": "nocturne-fantasy",
+    "rarity": "R"
+  },
+  {
+    "id": "nocturne-33",
+    "name": "深紅血族貴公子·修爾 #33",
+    "nameEn": "Crimson Noble Shu #33",
+    "series": "nocturne-fantasy",
+    "rarity": "R"
+  },
+  {
+    "id": "nocturne-34",
+    "name": "斷罪死神神侍·尼克斯 #34",
+    "nameEn": "Nyx Reaper Acolyte #34",
+    "series": "nocturne-fantasy",
+    "rarity": "SR"
+  },
+  {
+    "id": "nocturne-35",
+    "name": "萬象魔導書·終焉原典 #35",
+    "nameEn": "Omniscience Grimoire Core #35",
+    "series": "nocturne-fantasy",
+    "rarity": "SR"
+  },
+  {
+    "id": "nocturne-36",
+    "name": "猩紅主教·馬爾科姆 #36",
+    "nameEn": "Scarlet Patriarch Malcolm #36",
+    "series": "nocturne-fantasy",
+    "rarity": "SR"
+  },
+  {
+    "id": "nocturne-37",
+    "name": "白髮月詠魔女·克萊爾 #37",
+    "nameEn": "Claire Moon Enchantress #37",
+    "series": "nocturne-fantasy",
+    "rarity": "SR"
+  },
+  {
+    "id": "nocturne-38",
+    "name": "漆黑墮天聖騎士·阿撒茲勒 #38",
+    "nameEn": "Azazel Void Paladin #38",
+    "series": "nocturne-fantasy",
+    "rarity": "SSR"
+  },
+  {
+    "id": "nocturne-39",
+    "name": "血月妖姬·卡蜜拉之影 #39",
+    "nameEn": "Shadow of Empress Camilla #39",
+    "series": "nocturne-fantasy",
+    "rarity": "SSR"
+  },
+  {
+    "id": "nocturne-40",
+    "name": "深淵終結之魔神·阿斯蒙蒂斯 #40",
+    "nameEn": "Asmodeus Void Demon God #40",
+    "series": "nocturne-fantasy",
+    "rarity": "UR"
+  },
+  {
+    "id": "nocturne-41",
+    "name": "萬劫永夜至高主神·倪克斯 #41",
+    "nameEn": "EX // Nyx Primordial Night Supreme #41",
+    "series": "nocturne-fantasy",
+    "rarity": "EX"
+  },
+  {
+    "id": "nocturne-42",
+    "name": "黑夜信差貓頭鷹 #42",
+    "nameEn": "Midnight Messenger Owl #42",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-43",
+    "name": "墓園幽火靈 #43",
+    "nameEn": "Graveyard Will-o-Wisp #43",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-44",
+    "name": "黑曜石石像鬼幼獸 #44",
+    "nameEn": "Obsidian Gargoyle Whelp #44",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-45",
+    "name": "陰影小惡魔·斯皮克 #45",
+    "nameEn": "Shadow Imp Spike #45",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-46",
+    "name": "白骨巡卒 #46",
+    "nameEn": "Skeleton Patrol Soldier #46",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-47",
+    "name": "枯萎黑玫瑰妖精 #47",
+    "nameEn": "Withered Black Rose Fairy #47",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-48",
+    "name": "迷失幽靈侍女 #48",
+    "nameEn": "Lost Ghost Maid #48",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-49",
+    "name": "緋紅蝙蝠群 #49",
+    "nameEn": "Crimson Bat Swarm #49",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-50",
+    "name": "破曉暗影獵犬 #50",
+    "nameEn": "Dusk Shadow Hound #50",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-51",
+    "name": "古堡青銅發條人偶 #51",
+    "nameEn": "Bronze Clockwork Doll #51",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-52",
+    "name": "星界占卜學徒 #52",
+    "nameEn": "Astral Divination Apprentice #52",
+    "series": "nocturne-fantasy",
+    "rarity": "R"
+  },
+  {
+    "id": "nocturne-53",
+    "name": "黑薔薇十字刺客 #53",
+    "nameEn": "Black Rose Cross Assassin #53",
+    "series": "nocturne-fantasy",
+    "rarity": "R"
+  },
+  {
+    "id": "nocturne-54",
+    "name": "鮮血狂劍士·巴頓 #54",
+    "nameEn": "Blood Berserker Barton #54",
+    "series": "nocturne-fantasy",
+    "rarity": "R"
+  },
+  {
+    "id": "nocturne-55",
+    "name": "幽魂提琴手·莫爾 #55",
+    "nameEn": "Phantom Violinist Mohr #55",
+    "series": "nocturne-fantasy",
+    "rarity": "R"
+  },
+  {
+    "id": "nocturne-56",
+    "name": "白銀驅魔獵人·艾倫 #56",
+    "nameEn": "Silver Exorcist Alan #56",
+    "series": "nocturne-fantasy",
+    "rarity": "R"
+  },
+  {
+    "id": "nocturne-57",
+    "name": "深紅血族貴公子·修爾 #57",
+    "nameEn": "Crimson Noble Shu #57",
+    "series": "nocturne-fantasy",
+    "rarity": "R"
+  },
+  {
+    "id": "nocturne-58",
+    "name": "斷罪死神神侍·尼克斯 #58",
+    "nameEn": "Nyx Reaper Acolyte #58",
+    "series": "nocturne-fantasy",
+    "rarity": "SR"
+  },
+  {
+    "id": "nocturne-59",
+    "name": "萬象魔導書·終焉原典 #59",
+    "nameEn": "Omniscience Grimoire Core #59",
+    "series": "nocturne-fantasy",
+    "rarity": "SR"
+  },
+  {
+    "id": "nocturne-60",
+    "name": "猩紅主教·馬爾科姆 #60",
+    "nameEn": "Scarlet Patriarch Malcolm #60",
+    "series": "nocturne-fantasy",
+    "rarity": "SR"
+  },
+  {
+    "id": "nocturne-61",
+    "name": "白髮月詠魔女·克萊爾 #61",
+    "nameEn": "Claire Moon Enchantress #61",
+    "series": "nocturne-fantasy",
+    "rarity": "SR"
+  },
+  {
+    "id": "nocturne-62",
+    "name": "漆黑墮天聖騎士·阿撒茲勒 #62",
+    "nameEn": "Azazel Void Paladin #62",
+    "series": "nocturne-fantasy",
+    "rarity": "SSR"
+  },
+  {
+    "id": "nocturne-63",
+    "name": "血月妖姬·卡蜜拉之影 #63",
+    "nameEn": "Shadow of Empress Camilla #63",
+    "series": "nocturne-fantasy",
+    "rarity": "SSR"
+  },
+  {
+    "id": "nocturne-64",
+    "name": "深淵終結之魔神·阿斯蒙蒂斯 #64",
+    "nameEn": "Asmodeus Void Demon God #64",
+    "series": "nocturne-fantasy",
+    "rarity": "UR"
+  },
+  {
+    "id": "nocturne-65",
+    "name": "萬劫永夜至高主神·倪克斯 #65",
+    "nameEn": "EX // Nyx Primordial Night Supreme #65",
+    "series": "nocturne-fantasy",
+    "rarity": "EX"
+  },
+  {
+    "id": "nocturne-66",
+    "name": "黑夜信差貓頭鷹 #66",
+    "nameEn": "Midnight Messenger Owl #66",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-67",
+    "name": "墓園幽火靈 #67",
+    "nameEn": "Graveyard Will-o-Wisp #67",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-68",
+    "name": "黑曜石石像鬼幼獸 #68",
+    "nameEn": "Obsidian Gargoyle Whelp #68",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-69",
+    "name": "陰影小惡魔·斯皮克 #69",
+    "nameEn": "Shadow Imp Spike #69",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-70",
+    "name": "白骨巡卒 #70",
+    "nameEn": "Skeleton Patrol Soldier #70",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-71",
+    "name": "枯萎黑玫瑰妖精 #71",
+    "nameEn": "Withered Black Rose Fairy #71",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "nocturne-72",
+    "name": "迷失幽靈侍女 #72",
+    "nameEn": "Lost Ghost Maid #72",
+    "series": "nocturne-fantasy",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-15",
+    "name": "微型偵查無人機·蜂鳥 #15",
+    "nameEn": "Hummingbird Micro Drone #15",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-16",
+    "name": "雨夜清潔機器人·瓦利 #16",
+    "nameEn": "Rain Street Cleaner Bot #16",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-17",
+    "name": "高壓電擊防暴犬 #17",
+    "nameEn": "Stun Tactical Cyber K9 #17",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-18",
+    "name": "全息外送浮空滑板少女 #18",
+    "nameEn": "Hoverboard Delivery Girl #18",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-19",
+    "name": "地下黑客終端·小灰 #19",
+    "nameEn": "Underground Hacker Terminal #19",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-20",
+    "name": "仿生電子貓·妮可 #20",
+    "nameEn": "Bionic Companion Cat Nico #20",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-21",
+    "name": "賽博塗鴉浮空球 #21",
+    "nameEn": "Neon Spray Hover Drone #21",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-22",
+    "name": "戰術防爆盾機兵 #22",
+    "nameEn": "Heavy Riot Shield Mech #22",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-23",
+    "name": "高頻光刃刺客·影刃 #23",
+    "nameEn": "High Frequency Shadow Blade #23",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-24",
+    "name": "全息夜總會調酒師·琴 #24",
+    "nameEn": "Holo Bartender Gin #24",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-25",
+    "name": "重型貨運機甲·大力神 #25",
+    "nameEn": "Hercules Cargo Exosuit #25",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-26",
+    "name": "網絡虛擬偶像·初音未來代號X #26",
+    "nameEn": "Project Virtual Diva X #26",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-27",
+    "name": "浮空防空炮台·黑蜂 #27",
+    "nameEn": "Hornet Anti-Air Turret #27",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-28",
+    "name": "賽博武士道傳人·雷電 #28",
+    "nameEn": "Cyber Samurai Raiden #28",
+    "series": "neon-district",
+    "rarity": "SR"
+  },
+  {
+    "id": "neon-29",
+    "name": "企業特戰小隊長·瓦爾特 #29",
+    "nameEn": "MegaCorp SpecOps Walter #29",
+    "series": "neon-district",
+    "rarity": "SR"
+  },
+  {
+    "id": "neon-30",
+    "name": "神經核心意識投射體·露娜 #30",
+    "nameEn": "Neural Core Luna Avatar #30",
+    "series": "neon-district",
+    "rarity": "SR"
+  },
+  {
+    "id": "neon-31",
+    "name": "天基軌道離子炮控制機姬·天平 #31",
+    "nameEn": "Orbital Railgun Maiden Libra #31",
+    "series": "neon-district",
+    "rarity": "SSR"
+  },
+  {
+    "id": "neon-32",
+    "name": "矩陣創生至高神腦·德謬哥 #32",
+    "nameEn": "Demiurge Prime Matrix Engine #32",
+    "series": "neon-district",
+    "rarity": "UR"
+  },
+  {
+    "id": "neon-33",
+    "name": "零號終焉奇點·萬神網絡女帝·真夏娃 #33",
+    "nameEn": "EX // True Eve Singularity Matrix Apex #33",
+    "series": "neon-district",
+    "rarity": "EX"
+  },
+  {
+    "id": "neon-34",
+    "name": "微型偵查無人機·蜂鳥 #34",
+    "nameEn": "Hummingbird Micro Drone #34",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-35",
+    "name": "雨夜清潔機器人·瓦利 #35",
+    "nameEn": "Rain Street Cleaner Bot #35",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-36",
+    "name": "高壓電擊防暴犬 #36",
+    "nameEn": "Stun Tactical Cyber K9 #36",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-37",
+    "name": "全息外送浮空滑板少女 #37",
+    "nameEn": "Hoverboard Delivery Girl #37",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-38",
+    "name": "地下黑客終端·小灰 #38",
+    "nameEn": "Underground Hacker Terminal #38",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-39",
+    "name": "仿生電子貓·妮可 #39",
+    "nameEn": "Bionic Companion Cat Nico #39",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-40",
+    "name": "賽博塗鴉浮空球 #40",
+    "nameEn": "Neon Spray Hover Drone #40",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-41",
+    "name": "戰術防爆盾機兵 #41",
+    "nameEn": "Heavy Riot Shield Mech #41",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-42",
+    "name": "高頻光刃刺客·影刃 #42",
+    "nameEn": "High Frequency Shadow Blade #42",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-43",
+    "name": "全息夜總會調酒師·琴 #43",
+    "nameEn": "Holo Bartender Gin #43",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-44",
+    "name": "重型貨運機甲·大力神 #44",
+    "nameEn": "Hercules Cargo Exosuit #44",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-45",
+    "name": "網絡虛擬偶像·初音未來代號X #45",
+    "nameEn": "Project Virtual Diva X #45",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-46",
+    "name": "浮空防空炮台·黑蜂 #46",
+    "nameEn": "Hornet Anti-Air Turret #46",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-47",
+    "name": "賽博武士道傳人·雷電 #47",
+    "nameEn": "Cyber Samurai Raiden #47",
+    "series": "neon-district",
+    "rarity": "SR"
+  },
+  {
+    "id": "neon-48",
+    "name": "企業特戰小隊長·瓦爾特 #48",
+    "nameEn": "MegaCorp SpecOps Walter #48",
+    "series": "neon-district",
+    "rarity": "SR"
+  },
+  {
+    "id": "neon-49",
+    "name": "神經核心意識投射體·露娜 #49",
+    "nameEn": "Neural Core Luna Avatar #49",
+    "series": "neon-district",
+    "rarity": "SR"
+  },
+  {
+    "id": "neon-50",
+    "name": "天基軌道離子炮控制機姬·天平 #50",
+    "nameEn": "Orbital Railgun Maiden Libra #50",
+    "series": "neon-district",
+    "rarity": "SSR"
+  },
+  {
+    "id": "neon-51",
+    "name": "矩陣創生至高神腦·德謬哥 #51",
+    "nameEn": "Demiurge Prime Matrix Engine #51",
+    "series": "neon-district",
+    "rarity": "UR"
+  },
+  {
+    "id": "neon-52",
+    "name": "零號終焉奇點·萬神網絡女帝·真夏娃 #52",
+    "nameEn": "EX // True Eve Singularity Matrix Apex #52",
+    "series": "neon-district",
+    "rarity": "EX"
+  },
+  {
+    "id": "neon-53",
+    "name": "微型偵查無人機·蜂鳥 #53",
+    "nameEn": "Hummingbird Micro Drone #53",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-54",
+    "name": "雨夜清潔機器人·瓦利 #54",
+    "nameEn": "Rain Street Cleaner Bot #54",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-55",
+    "name": "高壓電擊防暴犬 #55",
+    "nameEn": "Stun Tactical Cyber K9 #55",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-56",
+    "name": "全息外送浮空滑板少女 #56",
+    "nameEn": "Hoverboard Delivery Girl #56",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-57",
+    "name": "地下黑客終端·小灰 #57",
+    "nameEn": "Underground Hacker Terminal #57",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-58",
+    "name": "仿生電子貓·妮可 #58",
+    "nameEn": "Bionic Companion Cat Nico #58",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-59",
+    "name": "賽博塗鴉浮空球 #59",
+    "nameEn": "Neon Spray Hover Drone #59",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-60",
+    "name": "戰術防爆盾機兵 #60",
+    "nameEn": "Heavy Riot Shield Mech #60",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "neon-61",
+    "name": "高頻光刃刺客·影刃 #61",
+    "nameEn": "High Frequency Shadow Blade #61",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-62",
+    "name": "全息夜總會調酒師·琴 #62",
+    "nameEn": "Holo Bartender Gin #62",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-63",
+    "name": "重型貨運機甲·大力神 #63",
+    "nameEn": "Hercules Cargo Exosuit #63",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-64",
+    "name": "網絡虛擬偶像·初音未來代號X #64",
+    "nameEn": "Project Virtual Diva X #64",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-65",
+    "name": "浮空防空炮台·黑蜂 #65",
+    "nameEn": "Hornet Anti-Air Turret #65",
+    "series": "neon-district",
+    "rarity": "R"
+  },
+  {
+    "id": "neon-66",
+    "name": "賽博武士道傳人·雷電 #66",
+    "nameEn": "Cyber Samurai Raiden #66",
+    "series": "neon-district",
+    "rarity": "SR"
+  },
+  {
+    "id": "neon-67",
+    "name": "企業特戰小隊長·瓦爾特 #67",
+    "nameEn": "MegaCorp SpecOps Walter #67",
+    "series": "neon-district",
+    "rarity": "SR"
+  },
+  {
+    "id": "neon-68",
+    "name": "神經核心意識投射體·露娜 #68",
+    "nameEn": "Neural Core Luna Avatar #68",
+    "series": "neon-district",
+    "rarity": "SR"
+  },
+  {
+    "id": "neon-69",
+    "name": "天基軌道離子炮控制機姬·天平 #69",
+    "nameEn": "Orbital Railgun Maiden Libra #69",
+    "series": "neon-district",
+    "rarity": "SSR"
+  },
+  {
+    "id": "neon-70",
+    "name": "矩陣創生至高神腦·德謬哥 #70",
+    "nameEn": "Demiurge Prime Matrix Engine #70",
+    "series": "neon-district",
+    "rarity": "UR"
+  },
+  {
+    "id": "neon-71",
+    "name": "零號終焉奇點·萬神網絡女帝·真夏娃 #71",
+    "nameEn": "EX // True Eve Singularity Matrix Apex #71",
+    "series": "neon-district",
+    "rarity": "EX"
+  },
+  {
+    "id": "neon-72",
+    "name": "微型偵查無人機·蜂鳥 #72",
+    "nameEn": "Hummingbird Micro Drone #72",
+    "series": "neon-district",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-17",
+    "name": "靈泉小錦鯉 #17",
+    "nameEn": "Spirit Spring Koi #17",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-18",
+    "name": "幽林青竹雀 #18",
+    "nameEn": "Bamboo Forest Azure Sparrow #18",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-19",
+    "name": "踏雲小靈鹿 #19",
+    "nameEn": "Cloud Treader Fawn #19",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-20",
+    "name": "雷音小倉鼠 #20",
+    "nameEn": "Thunder Spark Hamster #20",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-21",
+    "name": "赤炎幼貂 #21",
+    "nameEn": "Crimson Flame Mink #21",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-22",
+    "name": "冰魄玄龜幼體 #22",
+    "nameEn": "Glacial Tortoise Pup #22",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-23",
+    "name": "七彩靈蝶仙 #23",
+    "nameEn": "Prismatic Spirit Butterfly #23",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-24",
+    "name": "青丘二尾玄狐 #24",
+    "nameEn": "Two-Tailed Mystic Fox #24",
+    "series": "phantom-beasts",
+    "rarity": "R"
+  },
+  {
+    "id": "beast-25",
+    "name": "風行破空神隼 #25",
+    "nameEn": "Windstriker Falcon #25",
+    "series": "phantom-beasts",
+    "rarity": "R"
+  },
+  {
+    "id": "beast-26",
+    "name": "赤血金睛巨猿 #26",
+    "nameEn": "Golden-Eyed Crimson Ape #26",
+    "series": "phantom-beasts",
+    "rarity": "R"
+  },
+  {
+    "id": "beast-27",
+    "name": "紫霄引雷神雕 #27",
+    "nameEn": "Purple Cloud Thunder Roc #27",
+    "series": "phantom-beasts",
+    "rarity": "R"
+  },
+  {
+    "id": "beast-28",
+    "name": "碧落玄蛇仙姬 #28",
+    "nameEn": "Emerald Serpentine Maiden #28",
+    "series": "phantom-beasts",
+    "rarity": "SR"
+  },
+  {
+    "id": "beast-29",
+    "name": "太白山月影天狼 #29",
+    "nameEn": "Taibai Moon Shadow Wolf #29",
+    "series": "phantom-beasts",
+    "rarity": "SR"
+  },
+  {
+    "id": "beast-30",
+    "name": "青丘四尾幻仙狐 #30",
+    "nameEn": "Four-Tailed Phantom Kitsune #30",
+    "series": "phantom-beasts",
+    "rarity": "SR"
+  },
+  {
+    "id": "beast-31",
+    "name": "四靈聖獸·鎮天玄武 #31",
+    "nameEn": "Xuanwu the World Foundation #31",
+    "series": "phantom-beasts",
+    "rarity": "SSR"
+  },
+  {
+    "id": "beast-32",
+    "name": "焚天滅界神鳥·赤帝朱雀 #32",
+    "nameEn": "Vermilion Phoenix Vermilion God #32",
+    "series": "phantom-beasts",
+    "rarity": "SSR"
+  },
+  {
+    "id": "beast-33",
+    "name": "太古真龍皇·天帝應龍 #33",
+    "nameEn": "Yinglong Primordial Sovereign #33",
+    "series": "phantom-beasts",
+    "rarity": "UR"
+  },
+  {
+    "id": "beast-34",
+    "name": "鴻蒙混沌創世真靈·開天太古饕餮神祖 #34",
+    "nameEn": "EX // Taotie Chaos Primordial Entity #34",
+    "series": "phantom-beasts",
+    "rarity": "EX"
+  },
+  {
+    "id": "beast-35",
+    "name": "靈泉小錦鯉 #35",
+    "nameEn": "Spirit Spring Koi #35",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-36",
+    "name": "幽林青竹雀 #36",
+    "nameEn": "Bamboo Forest Azure Sparrow #36",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-37",
+    "name": "踏雲小靈鹿 #37",
+    "nameEn": "Cloud Treader Fawn #37",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-38",
+    "name": "雷音小倉鼠 #38",
+    "nameEn": "Thunder Spark Hamster #38",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-39",
+    "name": "赤炎幼貂 #39",
+    "nameEn": "Crimson Flame Mink #39",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-40",
+    "name": "冰魄玄龜幼體 #40",
+    "nameEn": "Glacial Tortoise Pup #40",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-41",
+    "name": "七彩靈蝶仙 #41",
+    "nameEn": "Prismatic Spirit Butterfly #41",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-42",
+    "name": "青丘二尾玄狐 #42",
+    "nameEn": "Two-Tailed Mystic Fox #42",
+    "series": "phantom-beasts",
+    "rarity": "R"
+  },
+  {
+    "id": "beast-43",
+    "name": "風行破空神隼 #43",
+    "nameEn": "Windstriker Falcon #43",
+    "series": "phantom-beasts",
+    "rarity": "R"
+  },
+  {
+    "id": "beast-44",
+    "name": "赤血金睛巨猿 #44",
+    "nameEn": "Golden-Eyed Crimson Ape #44",
+    "series": "phantom-beasts",
+    "rarity": "R"
+  },
+  {
+    "id": "beast-45",
+    "name": "紫霄引雷神雕 #45",
+    "nameEn": "Purple Cloud Thunder Roc #45",
+    "series": "phantom-beasts",
+    "rarity": "R"
+  },
+  {
+    "id": "beast-46",
+    "name": "碧落玄蛇仙姬 #46",
+    "nameEn": "Emerald Serpentine Maiden #46",
+    "series": "phantom-beasts",
+    "rarity": "SR"
+  },
+  {
+    "id": "beast-47",
+    "name": "太白山月影天狼 #47",
+    "nameEn": "Taibai Moon Shadow Wolf #47",
+    "series": "phantom-beasts",
+    "rarity": "SR"
+  },
+  {
+    "id": "beast-48",
+    "name": "青丘四尾幻仙狐 #48",
+    "nameEn": "Four-Tailed Phantom Kitsune #48",
+    "series": "phantom-beasts",
+    "rarity": "SR"
+  },
+  {
+    "id": "beast-49",
+    "name": "四靈聖獸·鎮天玄武 #49",
+    "nameEn": "Xuanwu the World Foundation #49",
+    "series": "phantom-beasts",
+    "rarity": "SSR"
+  },
+  {
+    "id": "beast-50",
+    "name": "焚天滅界神鳥·赤帝朱雀 #50",
+    "nameEn": "Vermilion Phoenix Vermilion God #50",
+    "series": "phantom-beasts",
+    "rarity": "SSR"
+  },
+  {
+    "id": "beast-51",
+    "name": "太古真龍皇·天帝應龍 #51",
+    "nameEn": "Yinglong Primordial Sovereign #51",
+    "series": "phantom-beasts",
+    "rarity": "UR"
+  },
+  {
+    "id": "beast-52",
+    "name": "鴻蒙混沌創世真靈·開天太古饕餮神祖 #52",
+    "nameEn": "EX // Taotie Chaos Primordial Entity #52",
+    "series": "phantom-beasts",
+    "rarity": "EX"
+  },
+  {
+    "id": "beast-53",
+    "name": "靈泉小錦鯉 #53",
+    "nameEn": "Spirit Spring Koi #53",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-54",
+    "name": "幽林青竹雀 #54",
+    "nameEn": "Bamboo Forest Azure Sparrow #54",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-55",
+    "name": "踏雲小靈鹿 #55",
+    "nameEn": "Cloud Treader Fawn #55",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-56",
+    "name": "雷音小倉鼠 #56",
+    "nameEn": "Thunder Spark Hamster #56",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-57",
+    "name": "赤炎幼貂 #57",
+    "nameEn": "Crimson Flame Mink #57",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-58",
+    "name": "冰魄玄龜幼體 #58",
+    "nameEn": "Glacial Tortoise Pup #58",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-59",
+    "name": "七彩靈蝶仙 #59",
+    "nameEn": "Prismatic Spirit Butterfly #59",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-60",
+    "name": "青丘二尾玄狐 #60",
+    "nameEn": "Two-Tailed Mystic Fox #60",
+    "series": "phantom-beasts",
+    "rarity": "R"
+  },
+  {
+    "id": "beast-61",
+    "name": "風行破空神隼 #61",
+    "nameEn": "Windstriker Falcon #61",
+    "series": "phantom-beasts",
+    "rarity": "R"
+  },
+  {
+    "id": "beast-62",
+    "name": "赤血金睛巨猿 #62",
+    "nameEn": "Golden-Eyed Crimson Ape #62",
+    "series": "phantom-beasts",
+    "rarity": "R"
+  },
+  {
+    "id": "beast-63",
+    "name": "紫霄引雷神雕 #63",
+    "nameEn": "Purple Cloud Thunder Roc #63",
+    "series": "phantom-beasts",
+    "rarity": "R"
+  },
+  {
+    "id": "beast-64",
+    "name": "碧落玄蛇仙姬 #64",
+    "nameEn": "Emerald Serpentine Maiden #64",
+    "series": "phantom-beasts",
+    "rarity": "SR"
+  },
+  {
+    "id": "beast-65",
+    "name": "太白山月影天狼 #65",
+    "nameEn": "Taibai Moon Shadow Wolf #65",
+    "series": "phantom-beasts",
+    "rarity": "SR"
+  },
+  {
+    "id": "beast-66",
+    "name": "青丘四尾幻仙狐 #66",
+    "nameEn": "Four-Tailed Phantom Kitsune #66",
+    "series": "phantom-beasts",
+    "rarity": "SR"
+  },
+  {
+    "id": "beast-67",
+    "name": "四靈聖獸·鎮天玄武 #67",
+    "nameEn": "Xuanwu the World Foundation #67",
+    "series": "phantom-beasts",
+    "rarity": "SSR"
+  },
+  {
+    "id": "beast-68",
+    "name": "焚天滅界神鳥·赤帝朱雀 #68",
+    "nameEn": "Vermilion Phoenix Vermilion God #68",
+    "series": "phantom-beasts",
+    "rarity": "SSR"
+  },
+  {
+    "id": "beast-69",
+    "name": "太古真龍皇·天帝應龍 #69",
+    "nameEn": "Yinglong Primordial Sovereign #69",
+    "series": "phantom-beasts",
+    "rarity": "UR"
+  },
+  {
+    "id": "beast-70",
+    "name": "鴻蒙混沌創世真靈·開天太古饕餮神祖 #70",
+    "nameEn": "EX // Taotie Chaos Primordial Entity #70",
+    "series": "phantom-beasts",
+    "rarity": "EX"
+  },
+  {
+    "id": "beast-71",
+    "name": "靈泉小錦鯉 #71",
+    "nameEn": "Spirit Spring Koi #71",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "beast-72",
+    "name": "幽林青竹雀 #72",
+    "nameEn": "Bamboo Forest Azure Sparrow #72",
+    "series": "phantom-beasts",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-halloween-04",
+    "name": "南瓜小蝙蝠妖精",
+    "nameEn": "Pumpkin Bat Sprite",
+    "series": "halloween",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-halloween-05",
+    "name": "黑貓魔導士·咪咪",
+    "nameEn": "Black Cat Magus Mimi",
+    "series": "halloween",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-halloween-06",
+    "name": "萬聖夜遊行騎士·杜拉漢",
+    "nameEn": "Dullahan Halloween Rider",
+    "series": "halloween",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-halloween-07",
+    "name": "南瓜派大師·波波",
+    "nameEn": "Pumpkin Pie Master",
+    "series": "halloween",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-halloween-08",
+    "name": "魅夜狼人伯爵",
+    "nameEn": "Werewolf Masquerade Count",
+    "series": "halloween",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-halloween-09",
+    "name": "萬聖狂歡幽靈王·布魯",
+    "nameEn": "Ghost King Boo",
+    "series": "halloween",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-halloween-10",
+    "name": "萬聖魅魔修女·愛麗絲",
+    "nameEn": "Succubus Sister Alice",
+    "series": "halloween",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-halloween-11",
+    "name": "南瓜古龍·萬聖裂炎",
+    "nameEn": "Jack-o-Lantern Dragon",
+    "series": "halloween",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-halloween-12",
+    "name": "幽靈城堡管家·奧古斯托",
+    "nameEn": "Haunted Castle Butler",
+    "series": "halloween",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-halloween-13",
+    "name": "萬聖夜之神·南瓜至尊原初魔王",
+    "nameEn": "EX // All Hallows Apex Jack",
+    "series": "halloween",
+    "rarity": "EX"
+  },
+  {
+    "id": "fest-halloween-14",
+    "name": "糖果小惡魔幼體",
+    "nameEn": "Candy Imp Toddler",
+    "series": "halloween",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-christmas-03",
+    "name": "薑餅人小鬥士",
+    "nameEn": "Gingerbread Fighter",
+    "series": "christmas",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-christmas-04",
+    "name": "聖誕鈴鐺精靈·小鈴",
+    "nameEn": "Bell Fairy Tink",
+    "series": "christmas",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-christmas-05",
+    "name": "槲寄生誓約少女·瑪麗",
+    "nameEn": "Mistletoe Vow Mary",
+    "series": "christmas",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-christmas-06",
+    "name": "極地雪怪·暖融融",
+    "nameEn": "Cozy Yeti Fluff",
+    "series": "christmas",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-christmas-07",
+    "name": "聖誕玩具修理大師·諾姆",
+    "nameEn": "Toy Maker Gnome",
+    "series": "christmas",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-christmas-08",
+    "name": "冰晶雪花天女·芙蘿拉",
+    "nameEn": "Snowflake Celestial Maiden",
+    "series": "christmas",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-christmas-09",
+    "name": "聖夜星光獨角獸",
+    "nameEn": "Starlight Christmas Unicorn",
+    "series": "christmas",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-christmas-10",
+    "name": "聖誕雪橇巡遊神·聖尼古拉",
+    "nameEn": "Santa Nicholas Apex",
+    "series": "christmas",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-christmas-11",
+    "name": "聖夜祈願小天使",
+    "nameEn": "Christmas Wish Cherub",
+    "series": "christmas",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-christmas-12",
+    "name": "雪域奇蹟·聖誕創世永恆神女",
+    "nameEn": "EX // Yuletide Genesis Sovereign",
+    "series": "christmas",
+    "rarity": "EX"
+  },
+  {
+    "id": "fest-christmas-13",
+    "name": "暖爐壁火小火靈",
+    "nameEn": "Hearth Fire Wisp",
+    "series": "christmas",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-christmas-14",
+    "name": "冰晶糖果手杖少女",
+    "nameEn": "Candy Cane Princess",
+    "series": "christmas",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-newyear-03",
+    "name": "爆竹除歲小童子",
+    "nameEn": "Firecracker Sprite",
+    "series": "new-year",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-newyear-04",
+    "name": "招財大吉金橘仙",
+    "nameEn": "Kumquat Auspicious Fairy",
+    "series": "new-year",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-newyear-05",
+    "name": "舞獅祥瑞靈獸·小喜",
+    "nameEn": "Auspicious Lioncub",
+    "series": "new-year",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-newyear-06",
+    "name": "萬福如意神女·春華",
+    "nameEn": "Spring Blossom Maiden",
+    "series": "new-year",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-newyear-07",
+    "name": "春宵花燈天女·元宵",
+    "nameEn": "Lantern Festival Maiden",
+    "series": "new-year",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-newyear-08",
+    "name": "除夕守歲錦鯉·年年",
+    "nameEn": "Annual Surplus Koi",
+    "series": "new-year",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-newyear-09",
+    "name": "辟邪桃符神將·神荼",
+    "nameEn": "Peach Wood Guardian Shen",
+    "series": "new-year",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-newyear-10",
+    "name": "歲首破曉神鳥·金烏",
+    "nameEn": "Dawn Golden Crow",
+    "series": "new-year",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-newyear-11",
+    "name": "迎春福氣小金豬",
+    "nameEn": "Prosperity Golden Piglet",
+    "series": "new-year",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-newyear-12",
+    "name": "九天歲首·萬象更新太初真龍",
+    "nameEn": "EX // Apex Celestial Auspicious Dragon",
+    "series": "new-year",
+    "rarity": "EX"
+  },
+  {
+    "id": "fest-newyear-13",
+    "name": "春風裁柳仙子",
+    "nameEn": "Spring Breeze Willow Fairy",
+    "series": "new-year",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-newyear-14",
+    "name": "百財如意白菜仙",
+    "nameEn": "Jade Cabbage Spirit",
+    "series": "new-year",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-valentines-03",
+    "name": "愛心小邱比特",
+    "nameEn": "Cupid Fledgling",
+    "series": "valentines",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-valentines-04",
+    "name": "草莓松露小精靈",
+    "nameEn": "Strawberry Truffle Sprite",
+    "series": "valentines",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-valentines-05",
+    "name": "粉紅誓約信使·鴿子",
+    "nameEn": "Pink Vow Dove",
+    "series": "valentines",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-valentines-06",
+    "name": "戀之魔法甜點師·夏洛特",
+    "nameEn": "Pâtissière Charlotte",
+    "series": "valentines",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-valentines-07",
+    "name": "水晶天鵝雙飛戀人",
+    "nameEn": "Crystal Swan Lovers",
+    "series": "valentines",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-valentines-08",
+    "name": "真愛裁決騎士·羅密歐",
+    "nameEn": "Knight of True Love Romeo",
+    "series": "valentines",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-valentines-09",
+    "name": "玫瑰花冠聖女·茱麗葉",
+    "nameEn": "Rose Crown Maiden Juliet",
+    "series": "valentines",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-valentines-10",
+    "name": "愛欲之至高女神·阿芙蘿黛蒂",
+    "nameEn": "Aphrodite Empress of Love",
+    "series": "valentines",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-valentines-11",
+    "name": "巧克力噴泉小仙子",
+    "nameEn": "Choco Fountain Pixie",
+    "series": "valentines",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-valentines-12",
+    "name": "永恆連理·此生不渝真愛創世神姬",
+    "nameEn": "EX // Eternal Love Genesis Queen",
+    "series": "valentines",
+    "rarity": "EX"
+  },
+  {
+    "id": "fest-valentines-13",
+    "name": "粉紅泰迪熊守護者",
+    "nameEn": "Teddy Bear Guardian",
+    "series": "valentines",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-valentines-14",
+    "name": "告白氣球精靈",
+    "nameEn": "Confession Balloon Spirit",
+    "series": "valentines",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-sakura-03",
+    "name": "落櫻小花瓣精靈",
+    "nameEn": "Sakura Petal Sprite",
+    "series": "sakura-festival",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-sakura-04",
+    "name": "櫻花祭典太鼓狸貓",
+    "nameEn": "Sakura Festival Tanuki",
+    "series": "sakura-festival",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-sakura-05",
+    "name": "櫻茶道仙子·千尋",
+    "nameEn": "Sakura Tea Maiden Chihiro",
+    "series": "sakura-festival",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-sakura-06",
+    "name": "千本櫻影忍·疾風",
+    "nameEn": "Hayate Cherry Blossom Shinobi",
+    "series": "sakura-festival",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-sakura-07",
+    "name": "櫻月神狐·春雪",
+    "nameEn": "Haruyuki Sakura Kitsune",
+    "series": "sakura-festival",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-sakura-08",
+    "name": "千櫻之陣劍聖·十兵衛",
+    "nameEn": "Jubei the Thousand Blossoms",
+    "series": "sakura-festival",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-sakura-09",
+    "name": "春櫻夜祭水燈少女",
+    "nameEn": "Sakura Floating Lantern Maiden",
+    "series": "sakura-festival",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-sakura-10",
+    "name": "萬櫻神域主宰·花開耶姬",
+    "nameEn": "Konohana Sakuya Hime",
+    "series": "sakura-festival",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-sakura-11",
+    "name": "櫻花金平糖妖精",
+    "nameEn": "Sakura Sugar Sprite",
+    "series": "sakura-festival",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-sakura-12",
+    "name": "萬界春華·極致千本櫻創世神姬",
+    "nameEn": "EX // Thousand Cherry Blossoms Genesis Goddess",
+    "series": "sakura-festival",
+    "rarity": "EX"
+  },
+  {
+    "id": "fest-sakura-13",
+    "name": "櫻林迷途幼鹿",
+    "nameEn": "Lost Fawn of Cherry Forest",
+    "series": "sakura-festival",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-sakura-14",
+    "name": "櫻風紙傘遊俠",
+    "nameEn": "Sakura Parasol Wanderer",
+    "series": "sakura-festival",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-summer-03",
+    "name": "撈金魚破紙網小仙",
+    "nameEn": "Goldfish Net Sprite",
+    "series": "summer-festival",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-summer-04",
+    "name": "蘋果糖甜心少女",
+    "nameEn": "Candy Apple Sweetheart",
+    "series": "summer-festival",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-summer-05",
+    "name": "夏夜祭典太鼓狂人",
+    "nameEn": "Summer Taiko Beatmaster",
+    "series": "summer-festival",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-summer-06",
+    "name": "水風船戲水幼靈",
+    "nameEn": "Water Balloon Playful Spirit",
+    "series": "summer-festival",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-summer-07",
+    "name": "祭典巡行神輿守護使",
+    "nameEn": "Mikoshi Festival Palanquin Guard",
+    "series": "summer-festival",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-summer-08",
+    "name": "幻彩夜空花火宗師·鍵屋",
+    "nameEn": "Kagiya the Fireworks Grandmaster",
+    "series": "summer-festival",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-summer-09",
+    "name": "刨冰彩虹小仙女",
+    "nameEn": "Rainbow Shaved Ice Pixie",
+    "series": "summer-festival",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-summer-10",
+    "name": "盛夏炎陽神凰·金烏羽",
+    "nameEn": "Solar Summer Phoenix",
+    "series": "summer-festival",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-summer-11",
+    "name": "夏夜涼風折扇公子",
+    "nameEn": "Cool Breeze Folding Fan Noble",
+    "series": "summer-festival",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-summer-12",
+    "name": "盛夏狂歡·璀璨萬世夏祭永恆天尊",
+    "nameEn": "EX // Summer Festival Apex Eternal Sovereign",
+    "series": "summer-festival",
+    "rarity": "EX"
+  },
+  {
+    "id": "fest-summer-13",
+    "name": "烤章魚丸子小廚神",
+    "nameEn": "Takoyaki Chef Apprentice",
+    "series": "summer-festival",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-summer-14",
+    "name": "夏祭螢火蟲之靈",
+    "nameEn": "Summer Firefly Wisp",
+    "series": "summer-festival",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-midautumn-03",
+    "name": "桂花酒香小醉仙",
+    "nameEn": "Osmanthus Wine Sprite",
+    "series": "mid-autumn",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-midautumn-04",
+    "name": "金黃流沙蛋黃酥精靈",
+    "nameEn": "Golden Yolk Pastry Spirit",
+    "series": "mid-autumn",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-midautumn-05",
+    "name": "廣寒宮掃階白兔",
+    "nameEn": "White Rabbit Sweeper",
+    "series": "mid-autumn",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-midautumn-06",
+    "name": "金桂飄香守林翁·吳剛",
+    "nameEn": "Wu Gang the Laurel Woodcutter",
+    "series": "mid-autumn",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-midautumn-07",
+    "name": "月魄流光仙子·望舒",
+    "nameEn": "Wangshu the Moon Charioteer",
+    "series": "mid-autumn",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-midautumn-08",
+    "name": "太陰星君·月中天后",
+    "nameEn": "Empress of the Silver Sphere",
+    "series": "mid-autumn",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-midautumn-09",
+    "name": "中秋彩燈巡遊兔少女",
+    "nameEn": "Lantern Tour Rabbit Girl",
+    "series": "mid-autumn",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-midautumn-10",
+    "name": "廣寒冰魄神琴·月之音",
+    "nameEn": "Moonlight Harp of Glacial Heart",
+    "series": "mid-autumn",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-midautumn-11",
+    "name": "月夜思鄉愁思靈",
+    "nameEn": "Moonlit Homesick Spirit",
+    "series": "mid-autumn",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-midautumn-12",
+    "name": "太陰創世·廣寒九天滿月至尊神皇",
+    "nameEn": "EX // Full Moon Genesis Sovereign Chang'e Apex",
+    "series": "mid-autumn",
+    "rarity": "EX"
+  },
+  {
+    "id": "fest-midautumn-13",
+    "name": "冰皮雪月餅仙女",
+    "nameEn": "Snow Skin Mooncake Fairy",
+    "series": "mid-autumn",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-midautumn-14",
+    "name": "月宮桂枝編織者",
+    "nameEn": "Laurel Branch Weaver",
+    "series": "mid-autumn",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-anniv-04",
+    "name": "一周年派對拉炮妖精",
+    "nameEn": "Party Popper Pixie",
+    "series": "anniversary",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-anniv-05",
+    "name": "金色一周年紀念金幣仙",
+    "nameEn": "Golden Jubilee Coin Spirit",
+    "series": "anniversary",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-anniv-06",
+    "name": "幻藏典籍裝訂工·書蟲",
+    "nameEn": "Archive Bookbinder Bookworm",
+    "series": "anniversary",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-anniv-07",
+    "name": "慶典彩帶機動少女·卡洛兒",
+    "nameEn": "Confetti Carol Mech Girl",
+    "series": "anniversary",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-anniv-08",
+    "name": "深淵幻藏傳承者·萬象開門人",
+    "nameEn": "The Gatekeeper of All Realities",
+    "series": "anniversary",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-anniv-09",
+    "name": "一周年慶典香檳神侍",
+    "nameEn": "Celebration Champagne Herald",
+    "series": "anniversary",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-anniv-10",
+    "name": "星河交匯·多元宇宙編年史記錄者",
+    "nameEn": "The Chronicle Recorder of Multiverse",
+    "series": "anniversary",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-anniv-11",
+    "name": "深淵幻藏至高皇冠·萬卡之王",
+    "nameEn": "Crown of 414 Archive Monarch",
+    "series": "anniversary",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-anniv-12",
+    "name": "周年慶紀念馬卡龍塔小鬼",
+    "nameEn": "Macaron Tower Little Imp",
+    "series": "anniversary",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-anniv-13",
+    "name": "萬象至高締造者·深淵幻藏多元創世神格",
+    "nameEn": "EX // Apex Architect of Abyssal Archive All Cosmos",
+    "series": "anniversary",
+    "rarity": "EX"
+  },
+  {
+    "id": "fest-anniv-14",
+    "name": "慶典金色水母浮游燈",
+    "nameEn": "Golden Jelly Lantern Float",
+    "series": "anniversary",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-eclipse-04",
+    "name": "日蝕微光影刃僕從",
+    "nameEn": "Eclipse Shadowblade Thrall",
+    "series": "abyss-eclipse",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-eclipse-05",
+    "name": "暗黑黑曜石日晷靈",
+    "nameEn": "Obsidian Sundial Spirit",
+    "series": "abyss-eclipse",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-eclipse-06",
+    "name": "月蝕潮汐黑水母",
+    "nameEn": "Lunar Eclipse Black Jelly",
+    "series": "abyss-eclipse",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-eclipse-07",
+    "name": "暗蝕審判黑炎騎士",
+    "nameEn": "Eclipse Inquisitor Blackflame",
+    "series": "abyss-eclipse",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-eclipse-08",
+    "name": "黑日冠冕祭司·奧西里斯",
+    "nameEn": "Osiris Priest of Black Corona",
+    "series": "abyss-eclipse",
+    "rarity": "SR"
+  },
+  {
+    "id": "fest-eclipse-09",
+    "name": "蝕之暗界吞日魔狼·斯庫爾",
+    "nameEn": "Skoll the Sun Chaser",
+    "series": "abyss-eclipse",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-eclipse-10",
+    "name": "日蝕之眼·深淵黑洞水母姬",
+    "nameEn": "Singularity Eclipse Medusa Maiden",
+    "series": "abyss-eclipse",
+    "rarity": "SSR"
+  },
+  {
+    "id": "fest-eclipse-11",
+    "name": "暗影蝕月蝙蝠王",
+    "nameEn": "Eclipse Shadowfang Bat Sovereign",
+    "series": "abyss-eclipse",
+    "rarity": "R"
+  },
+  {
+    "id": "fest-eclipse-12",
+    "name": "黑曜石暗核幼龍",
+    "nameEn": "Obsidian Eclipse Wyrmling",
+    "series": "abyss-eclipse",
+    "rarity": "N"
+  },
+  {
+    "id": "fest-eclipse-13",
+    "name": "終焉破曉·黑日蝕神太古至高混沌黑神",
+    "nameEn": "EX // Black Sun Eclipse Primordial Void God",
+    "series": "abyss-eclipse",
+    "rarity": "EX"
+  },
+  {
+    "id": "fest-eclipse-14",
+    "name": "蝕之紫晶毒蠍",
+    "nameEn": "Eclipse Amethyst Scorpion",
+    "series": "abyss-eclipse",
+    "rarity": "R"
+  }
+]
