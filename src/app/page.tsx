@@ -14,7 +14,6 @@ import { RatesModal } from '@/components/common/RatesModal';
 import { SettingsModal } from '@/components/common/SettingsModal';
 import { PullHistoryModal } from '@/components/collection/PullHistoryModal';
 import { DevToolsModal } from '@/components/common/DevToolsModal';
-import { AbyssalSigil } from '@/components/common/AbyssalSigil';
 
 export default function Home() {
   const { currentView, initializeApp, isLoading } = useAppStore();
@@ -32,10 +31,7 @@ export default function Home() {
   if (isLoading) {
     return (
       <div className="w-full h-screen bg-slate-950 flex flex-col items-center justify-center text-cyan-400">
-        <div className="relative">
-          <div className="w-16 h-16 rounded-full border-2 border-cyan-400/20 border-t-cyan-400 animate-spin" />
-          <AbyssalSigil className="w-7 h-7 absolute inset-0 m-auto" glow={true} />
-        </div>
+        <div className="w-16 h-16 rounded-full border-2 border-cyan-400/20 border-t-cyan-400 animate-spin" />
         <p className="mt-4 text-xs font-hud tracking-[0.2em] text-slate-400 uppercase">
           INITIALIZING ABYSSAL ARCHIVE...
         </p>
