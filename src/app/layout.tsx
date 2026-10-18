@@ -69,16 +69,6 @@ export const metadata: Metadata = {
     'Trading Card Game',
     'Gacha',
   ],
-  // Explicit basePath prefix — Metadata absolute "/…" ignores metadataBase pathname on GH Pages
-  icons: {
-    icon: [
-      { url: asset('/favicon.ico'), sizes: 'any' },
-      { url: asset('/favicon-32.png'), type: 'image/png', sizes: '32x32' },
-      { url: asset('/icon-192.png'), type: 'image/png', sizes: '192x192' },
-    ],
-    apple: [{ url: asset('/apple-touch-icon.png'), sizes: '180x180', type: 'image/png' }],
-    shortcut: asset('/favicon.ico'),
-  },
 };
 
 export default function RootLayout({
@@ -86,11 +76,34 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
+  // Explicit <link> tags: Next file icons + metadataBase can miss basePath on GH Pages.
+  // Cache-bust query so browsers drop the previous blank/404 favicon.
+  const v = '20261019';
   return (
     <html
       lang="zh-TW"
       className={`dark h-full antialiased ${chironHei.variable} ${wenkai.variable} ${cinzel.variable} ${oxanium.variable} ${ibmPlexMono.variable}`}
     >
+      <head>
+        <link rel="icon" href={`${asset('/favicon.ico')}?v=${v}`} sizes="any" />
+        <link
+          rel="icon"
+          href={`${asset('/favicon-32.png')}?v=${v}`}
+          type="image/png"
+          sizes="32x32"
+        />
+        <link
+          rel="icon"
+          href={`${asset('/icon-192.png')}?v=${v}`}
+          type="image/png"
+          sizes="192x192"
+        />
+        <link
+          rel="apple-touch-icon"
+          href={`${asset('/apple-touch-icon.png')}?v=${v}`}
+          sizes="180x180"
+        />
+      </head>
       <body className="font-sans min-h-full flex flex-col bg-slate-950 text-slate-100 select-none">
         {children}
       </body>

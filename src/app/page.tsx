@@ -3,6 +3,7 @@
 import React, { useEffect } from 'react';
 import { useAppStore } from '@/lib/store';
 import { Navbar } from '@/components/common/Navbar';
+import { SiteFooter } from '@/components/common/SiteFooter';
 import { HomeLanding } from '@/components/home/HomeLanding';
 import { PackSelector } from '@/components/gacha/PackSelector';
 import { PackOpeningScene } from '@/components/gacha/PackOpeningScene';
@@ -55,6 +56,8 @@ export default function Home() {
         {currentView === 'collection' && <CollectionCompendium />}
         {currentView === 'showcase' && <ShowcaseWall />}
       </main>
+
+      {currentView !== 'opening' && <SiteFooter />}
 
       {/* Global Interactive Modals */}
       <CardModal />
