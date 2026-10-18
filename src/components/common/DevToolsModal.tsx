@@ -15,6 +15,7 @@ import {
 } from 'lucide-react';
 import { AbyssalSigil } from '@/components/common/AbyssalSigil';
 import { audio } from '@/lib/audio';
+import { withBase } from '@/lib/basePath';
 
 interface ComfyProgress {
   total: number;
@@ -44,7 +45,7 @@ export const DevToolsModal: React.FC = () => {
   React.useEffect(() => {
     const fetchProgress = async () => {
       try {
-        const res = await fetch(`/cards/GENERATION_PROGRESS.json?t=${Date.now()}`);
+        const res = await fetch(`${withBase('/cards/GENERATION_PROGRESS.json')}?t=${Date.now()}`);
         if (res.ok) {
           const data = await res.json();
           setComfyProgress(data);

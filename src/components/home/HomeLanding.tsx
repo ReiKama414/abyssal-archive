@@ -10,6 +10,7 @@ import { PackageOpen, Trophy, Layers } from 'lucide-react';
 import { AbyssalSigil } from '@/components/common/AbyssalSigil';
 import { audio } from '@/lib/audio';
 import { getTimeUntilTaipeiMidnight } from '@/lib/time';
+import { withBase } from '@/lib/basePath';
 
 export const HomeLanding: React.FC = () => {
   const { setCurrentView, userState, setInspectedCard, infinitePulls } = useAppStore();
@@ -176,7 +177,7 @@ export const HomeLanding: React.FC = () => {
       <div className="absolute inset-0 pointer-events-none opacity-20 overflow-hidden z-0">
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
-          src="/header-banner.jpg"
+          src={withBase('/header-banner.jpg')}
           alt="Sunken Abyssal Cathedral"
           className="w-full h-full object-cover object-center filter blur-[1px]"
         />
@@ -200,7 +201,7 @@ export const HomeLanding: React.FC = () => {
             <div className="w-full h-full rounded-[20px] overflow-hidden bg-slate-950">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src="/logo.png"
+                src={withBase('/logo.png')}
                 alt="Abyssal Archive Official Crest"
                 className="w-full h-full object-cover transform scale-105 group-hover:scale-110 transition-transform duration-500"
               />

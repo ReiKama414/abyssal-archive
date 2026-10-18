@@ -1,6 +1,7 @@
 'use client';
 
 import React from 'react';
+import { withBase } from '@/lib/basePath';
 
 interface AbyssalSigilProps {
   className?: string;
@@ -15,7 +16,7 @@ export const AbyssalSigil: React.FC<AbyssalSigilProps> = ({
     <span className={`relative inline-flex items-center justify-center shrink-0 ${className}`}>
       {/* eslint-disable-next-line @next/next/no-img-element */}
       <img
-        src="/abyssal-sigil.png"
+        src={withBase('/abyssal-sigil.png')}
         alt="Abyssal Sigil"
         className="w-full h-full object-contain filter drop-shadow-[0_0_6px_rgba(0,242,255,0.6)]"
       />

@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import { CardDefinition } from '@/types';
 import { generateCardSvg } from '@/lib/art/cardArtGenerator';
+import { withBase } from '@/lib/basePath';
 
 interface CardArtViewProps {
   card: CardDefinition;
@@ -23,7 +24,7 @@ export const CardArtView: React.FC<CardArtViewProps> = ({ card, isLiving = false
         {/* Base Image with subtle breathing scale if Living Card */}
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
-          src={card.customImageUrl}
+          src={withBase(card.customImageUrl)}
           alt={card.name}
           className={`w-full h-full object-cover transition-transform duration-1000 ${
             isLiving ? 'animate-[pulse_4s_ease-in-out_infinite] scale-[1.03]' : ''

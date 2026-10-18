@@ -12,6 +12,7 @@ import confetti from 'canvas-confetti';
 import { ribbonCannons, DEFAULT_RIBBON_PALETTES } from '@/lib/ribbons';
 import { audio } from '@/lib/audio';
 import { getCardBackSvg } from '@/lib/art/cardArtGenerator';
+import { withBase } from '@/lib/basePath';
 
 type OpeningStage = 'tear_strip' | 'pull_cards' | 'summon_ritual' | 'reveal_cards' | 'results';
 
@@ -634,7 +635,7 @@ export const PackOpeningScene: React.FC = () => {
               <div className="absolute inset-0 z-0 overflow-hidden pointer-events-none">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src={featuredCard.customImageUrl}
+                  src={withBase(featuredCard.customImageUrl)}
                   alt={featuredCard.name}
                   className="w-full h-full object-cover opacity-40 scale-105"
                 />

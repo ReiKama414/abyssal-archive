@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <a href="https://reikama414.github.io/abyssal-archive/">線上示範</a>
+  ·
+  <a href="https://github.com/ReiKama414/abyssal-archive">Star</a>
+  ·
   <a href="https://reikama414.vercel.app/">個人網站</a>
   ·
   <a href="#快速開始">快速開始</a>
@@ -112,6 +116,7 @@ abyssal-archive/
 
 | | |
 | --- | --- |
+| 線上示範 | [reikama414.github.io/abyssal-archive](https://reikama414.github.io/abyssal-archive/) |
 | GitHub | [ReiKama414/abyssal-archive](https://github.com/ReiKama414/abyssal-archive) |
 | 個人網站 | [reikama414.vercel.app](https://reikama414.vercel.app/) |
 | 作者 | [ReiKama414](https://github.com/ReiKama414)（Myers） |

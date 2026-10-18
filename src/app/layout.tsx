@@ -51,7 +51,12 @@ const ibmPlexMono = IBM_Plex_Mono({
   display: 'swap',
 });
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? '';
+const asset = (path: string) => `${basePath}${path.startsWith('/') ? path : `/${path}`}`;
+
 export const metadata: Metadata = {
+  // pathname-aware base so absolute icon paths resolve under /abyssal-archive/
+  metadataBase: new URL('https://reikama414.github.io/abyssal-archive/'),
   title: 'ABYSSAL ARCHIVE — 深淵幻藏 | 線上抽卡與3D卡牌收藏',
   description:
     '深淵幻藏 — 暗黑奇幻卡牌召喚。每日免費10抽、3D全息多維卡牌、四大永久系列與節慶限定活動。',
@@ -64,6 +69,16 @@ export const metadata: Metadata = {
     'Trading Card Game',
     'Gacha',
   ],
+  // Explicit basePath prefix — Metadata absolute "/…" ignores metadataBase pathname on GH Pages
+  icons: {
+    icon: [
+      { url: asset('/favicon.ico'), sizes: 'any' },
+      { url: asset('/favicon-32.png'), type: 'image/png', sizes: '32x32' },
+      { url: asset('/icon-192.png'), type: 'image/png', sizes: '192x192' },
+    ],
+    apple: [{ url: asset('/apple-touch-icon.png'), sizes: '180x180', type: 'image/png' }],
+    shortcut: asset('/favicon.ico'),
+  },
 };
 
 export default function RootLayout({

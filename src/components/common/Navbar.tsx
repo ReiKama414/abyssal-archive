@@ -15,6 +15,7 @@ import {
   PackageOpen,
 } from 'lucide-react';
 import { audio } from '@/lib/audio';
+import { withBase } from '@/lib/basePath';
 
 export const Navbar: React.FC = () => {
   const headerRef = useRef<HTMLElement>(null);
@@ -83,7 +84,7 @@ export const Navbar: React.FC = () => {
           <div className="relative w-11 h-11 rounded-2xl overflow-hidden border border-cyan-400/50 shadow-[0_0_15px_rgba(0,242,255,0.35)] group-hover:shadow-[0_0_25px_rgba(0,242,255,0.7)] group-hover:scale-105 transition-all bg-slate-950 shrink-0">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src="/logo.png"
+              src={withBase('/logo.png')}
               alt="Abyssal Archive Emblem"
               className="w-full h-full object-cover transform scale-105 group-hover:scale-110 transition-transform duration-300"
             />

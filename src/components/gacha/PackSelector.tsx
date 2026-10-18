@@ -11,6 +11,7 @@ import { isFestivalActive, getTimeUntilTaipeiMidnight } from '@/lib/time';
 import { Flame, ChevronRight, Info } from 'lucide-react';
 import { AbyssalSigil } from '@/components/common/AbyssalSigil';
 import { audio } from '@/lib/audio';
+import { withBase } from '@/lib/basePath';
 
 export const PackSelector: React.FC = () => {
   const {
@@ -258,7 +259,7 @@ export const PackSelector: React.FC = () => {
                     <div className="absolute inset-0 z-0 overflow-hidden">
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img
-                        src={primaryFeatured.customImageUrl}
+                        src={withBase(primaryFeatured.customImageUrl)}
                         alt={primaryFeatured.name}
                         className="w-full h-full object-cover scale-105 group-hover:scale-110 transition-transform duration-500 opacity-75"
                       />

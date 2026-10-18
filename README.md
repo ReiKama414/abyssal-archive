@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <a href="https://reikama414.github.io/abyssal-archive/">Live demo</a>
+  ·
+  <a href="https://github.com/ReiKama414/abyssal-archive">Star</a>
+  ·
   <a href="https://reikama414.vercel.app/">Portfolio</a>
   ·
   <a href="#quick-start">Quick start</a>
@@ -112,6 +116,7 @@ Original project assets (source, UI design, card pool text, brand marks, and ill
 
 | | |
 | --- | --- |
+| Live demo | [reikama414.github.io/abyssal-archive](https://reikama414.github.io/abyssal-archive/) |
 | GitHub | [ReiKama414/abyssal-archive](https://github.com/ReiKama414/abyssal-archive) |
 | Portfolio | [reikama414.vercel.app](https://reikama414.vercel.app/) |
 | Author | [ReiKama414](https://github.com/ReiKama414) (Myers) |
