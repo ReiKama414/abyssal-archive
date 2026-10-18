@@ -18,11 +18,14 @@ const GitHubIcon: React.FC<{ className?: string }> = ({ className }) => (
 );
 
 export const SiteFooter: React.FC = () => {
+  const year = new Date().getFullYear();
+  const yearLabel = year > 2025 ? `2025–${year}` : '2025';
+
   return (
     <footer className="relative z-10 w-full border-t border-slate-800/70 bg-slate-950/80 backdrop-blur-md">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 flex flex-col sm:flex-row items-center justify-between gap-3">
         <p className="text-[10px] sm:text-[11px] font-mono tracking-wide text-slate-500 text-center sm:text-left">
-          © 2025–2026 ReiKama414. All rights reserved.
+          © {yearLabel} ReiKama414. All rights reserved.
         </p>
 
         <div className="flex items-center gap-3">
